@@ -33,13 +33,13 @@ nav_links:
       - 'https://gradescope.com'
     Piazza:
       - 'https://piazza.com'
-aux_links:
-  'Kevin Lin':
-    - 'https://kevinl.info'
-  'Just the Class on GitHub':
-    - 'https://github.com/kevinlin1/just-the-class'
-footer: >-
-  Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
+# aux_links:
+#   'Kevin Lin':
+#     - 'https://kevinl.info'
+#   'Just the Class on GitHub':
+#     - 'https://github.com/kevinlin1/just-the-class'
+# footer: >-
+#   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
 
 # Collections for website data
 collections:
