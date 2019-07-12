@@ -1,9 +1,7 @@
 ---
-name: Kevin Lin
+name: Shankar Sastry
 role: Instructor
 email: me@example.com
-website: https://kevinl.info
-photo: https://kevinl.info/assets/images/me.png
+website: sastry@eecs.berkeley.edu
+photo: assets/sastry.jpg
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
