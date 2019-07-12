@@ -27,13 +27,13 @@ schedule:
         tas: Amay, Stella
       - name: Lab
         class: lab
-        start: 12:30 AM
+        start: 12:30 PM
         end: 3:30 PM
         location: Cory 111
         tas: Tiffany, Jun
       - name: Lab
         class: lab
-        start: 3:30 AM
+        start: 3:30 PM
         end: 6:30 PM
         location: Cory 111
         tas: Ron, Amay
