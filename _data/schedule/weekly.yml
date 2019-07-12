@@ -74,6 +74,11 @@ schedule:
         end: 12:00 PM
         location: Cory 111
         tas: Stella, Aakarsh
+      - name: Discussion
+        class: section
+        start: 5:00 PM
+        end: 6:00 PM
+        
       - name: Lab
         class: lab
         start: 3:30 PM
