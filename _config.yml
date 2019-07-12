@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EE C106a/206a
+title: EE C106a
 description: Course site for EE 106a
 author: Tiffany
 email: tiffanyec@berkeley.edu
