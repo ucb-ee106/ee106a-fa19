@@ -1,29 +1,16 @@
 ---
-title: Basic Data Structures
+title: Week 2
 days:
-  - topic: >-
-      [Linked Lists & Encapsulation](#)
+  - topic: 
     date: 2019-04-08
-    description: >-
-      [3.1](#),
-      [2.2](#),
-      [2.3](#)
-  - topic: >-
-      [Resizing Arrays](#)
+    description: 
+  - topic:
     date: 2019-04-10
-    description: >-
-      [2.4](#),
-      [2.5](#)
-  - topic: >-
-      [Runtime Analysis](#)
+    description: 
+  - topic: 
     date: 2019-04-12
-    description: >-
-      [8.1](#),
-      [8.2](#),
-      [8.3](#),
-      [8.4](#)
+    description: 
 ---
 
-- [Section 2: Linked Lists](#) ([Solutions](#))
-- [Lab 2: Resizing Arrays](#)
-- [Homework 2: Basic Data Structures](#)
+- [Lab 1](#)
+- [Homework 1](#)
