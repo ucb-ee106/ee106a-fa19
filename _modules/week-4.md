@@ -1,5 +1,5 @@
 ---
-title: Week 3
+title: Week 4
 days:
   - topic: 
     date: 2019-04-08
@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- [Lab 3](#)
-- [Homework 3](#)
+- [Lab 4](#)
+- [Homework 4](#)
