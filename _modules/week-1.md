@@ -1,24 +1,14 @@
 ---
-title: Introduction to Java
+title: Introduction
 days:
-  - topic: >-
-      [Java & Git](#)
+  - topic: 
     date: 2019-04-01
-    description: >-
-      [1.1](#)
-  - topic: >-
-      [Variables & Objects](#)
+    description: 
+  - topic: 
     date: 2019-04-03
-    description: >-
-      [1.2](#),
-      [2.1](#)
-  - topic: >-
-      [Tracing, IntLists, & Recursion](#)
+    description: 
+  - topic: 
     date: 2019-04-05
-    description: >-
-      [2.1](#)
+    description: 
 ---
 
-- [Section 1: Intro to Java](#) ([Solutions](#))
-- [Lab 1: Intro to Java](#)
-- [Homework 1: Intro to Java](#)
