@@ -28,4 +28,8 @@ Fall 2019
 
 ## Course Description
 
-An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications of robotics in active perception, medical robotics, and other areas.
+This course is an introduction to the field of robotics. It covers the fundamentals of kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course deals with forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications of robotics in active perception, medical robotics, autonomous vehicles, and other areas.
+
+Students are expected to have a background in linear algebra, calculus, and basic physics, as well as familiarity with the Python programming language. The lectures are supplemented with homeworks and experimental work in the laboratory using two Baxter robots, and multiple mobile Turtlebot robots. There are two midterms, but no final exam. The last month is devoted to the design and implementation of a final project, carried out in groups of ~4 students.
+
+The required text is Richard Murray, Zexiang Li and S. Shankar Sastry: "A Mathematical Introduction to Robotic Manipulation." Additional lectures will cover the basics of computer vision, path planning, state estimation and control. 
