@@ -2,5 +2,5 @@
 title: Week 0 Announcement
 ---
 
-Hello world!
+Welcome to EECS C106a/206a!
 {: .fs-5 }
