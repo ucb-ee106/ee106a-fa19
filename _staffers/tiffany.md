@@ -1,7 +1,7 @@
 ---
 name: Tiffany Cappellari
 role: Teaching Assistant
-email: tiffanyec@berkeley.edu
+email: tiffanyec@
 photo: assets/tiffany.jpg
 ---
 
