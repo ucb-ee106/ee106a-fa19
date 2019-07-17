@@ -1,7 +1,7 @@
 ---
 name: Valmik Prabhu
 role: Teaching Assistant
-email: valmik@berkeley.edu
+email: valmik@
 photo: assets/valmik.png
 ---
 Head TA
