@@ -17,7 +17,7 @@ title: EE C106a
 description: Course site for EE 106a
 author: Tiffany
 email: tiffanyec@berkeley.edu
-baseurl: '/ee106a-fa19' # the subpath of your site, e.g. /blog
+baseurl: '/ee106a-fa19/' # the subpath of your site, e.g. /blog
 url: 'https://tiffanyec.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
