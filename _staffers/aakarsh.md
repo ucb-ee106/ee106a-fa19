@@ -1,7 +1,7 @@
 ---
 name: Aakarsh Gupta
 role: Teaching Assistant
-email: aakarshgupta97@berkeley.edu
+email: aakarshgupta97@
 photo: assets/aakarsh.jpg
 ---
 
