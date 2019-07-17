@@ -1,7 +1,7 @@
 ---
 name: Stella Seo
 role: Teaching Assistant
-email: seo.jysk@berkeley.edu
+email: seo.jysk@
 photo: assets/stella.jpg
 ---
 
