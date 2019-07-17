@@ -1,7 +1,7 @@
 ---
 name: Grant Wang
 role: Teaching Assistant
-email: grant.wang5@berkeley.edu
+email: grant.wang5@
 photo: assets/grant.jpg
 ---
 
