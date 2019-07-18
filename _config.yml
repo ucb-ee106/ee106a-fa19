@@ -27,8 +27,6 @@ search_enabled: true
 permalink: pretty
 nav_links:
   Other:
-    Okpy:
-      - 'https://okpy.org'
     Gradescope:
       - 'https://gradescope.com'
     Piazza:
