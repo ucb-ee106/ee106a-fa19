@@ -9,7 +9,7 @@ description: >-
 # EE C106a/206a | Introduction to Robotics
 {: .mb-2 }
 Fall 2019
-{: .mb-0 .fs-6 .text-grey-dk-200 }
+{: .mb-0 .fs-6 .text-grey-dk-100 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
