@@ -52,7 +52,7 @@ Mandatory lab sections will meet each week beginning the first full week of clas
 
 Labs should ideally be completed by the end of your assigned lab section, and are scoped such that this should be feasible. We recognize, however, that due to different levels of previous experience with the material — as well as the challenges of working with real hardware — this will not always be possible. In order to accommodate this variation while ensuring that students do not fall behind, we have developed the following (admittedly complex) policies:
 
-- Labs 1-2 are a serial introduction to ROS and the other tools used in this class. They must therefore be completed by the start* of your assigned lab section the following week.
+- Labs 1-2 are a serial introduction to ROS and the other tools used in this class. They must therefore be completed by the *start* of your assigned lab section the following week.
 - Labs 3-8 occur in blocks of two labs each (3 & 4, 5 & 6, 7 & 8); each block is dependent on the previous block, but labs within each block are not dependent on each other and may be completed in any order. Both labs from each block must be completed by the *start* of your first assigned lab section for the following block.
 
 *The start of your lab section is a hard cutoff — that is, if an assignment is due at the start of lab section, you may not check off that assignment at the start of class for full credit; it must be checked off beforehand. This policy is in place because many of the labs fully fill the allotted time, and we want to keep everyone on schedule.*
