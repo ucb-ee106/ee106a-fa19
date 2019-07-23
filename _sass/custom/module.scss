@@ -11,8 +11,8 @@
 
   .module-date {
     @extend .label, .fw-700;
-    background-color: $purple-100;
-//     background-color: $module-date-color;
+//     background-color: $purple-100;
+    background-color: $module-date-color;
   }
 
   span.module-date {
