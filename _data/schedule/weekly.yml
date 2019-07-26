@@ -10,7 +10,7 @@ schedule:
         class: lecture
         start: 11:00 AM
         end: 12:00 PM
-         
+        location: Dwinelle 145
       - name: Lab
         class: lab
         start: 12:00 PM
@@ -43,17 +43,17 @@ schedule:
         class: section
         start: 9:00 AM
         end: 10:00 AM
-        
+        location: Cory 241
       - name: Discussion
         class: section
         start: 10:00 AM
         end: 11:00 AM
-        
+        location: Cory 241
       - name: Lecture
         class: lecture
         start: 11:00 AM
         end: 12:00 PM
-         
+        location: Dwinelle 145
       - name: Lab
         class: lab
         start: 12:00 PM
@@ -82,31 +82,31 @@ schedule:
         tas: Ron, Jun
       - name: Discussion
         class: section
-        start: 5:00 PM
-        end: 6:00 PM
-        
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Cory 293
   - name: Friday
     events:
       - name: Lecture
         class: lecture
         start: 11:00 AM
         end: 12:00 PM
-         
+        location: Dwinelle 145
       - name: Discussion
         class: section
         start: 12:00 PM
         end: 1:00 PM
-        
+        location: Cory 293
       - name: Discussion
         class: section
         start: 1:00 PM
         end: 2:00 PM
-        
+        location: Cory 293
       - name: Discussion
         class: section
-        start: 3:00 PM
-        end: 4:00 PM
-        
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Cory 293
       - name: Lab
         class: lab
         start: 3:00 PM
