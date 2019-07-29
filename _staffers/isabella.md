@@ -1,7 +1,7 @@
 ---
 name: Isabella Huang
 role: Teaching Assistant
-email: tiffanyec@
+email: isabella.huang@
 photo: assets/isabella.JPG
 ---
 
