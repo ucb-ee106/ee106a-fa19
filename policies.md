@@ -61,7 +61,7 @@ If labs are not completed and checked off by the times above, they may be checke
 
 ## Final Project
 
-The final project will constitute the largest single portion of your grade for this course and must include sensing, planning, and actuation components on real hardware. Project deliverables include a proposal, a video, a live demo, a final report, and several intermediate check-ins. Further information will be forthcoming; in the meantime, feel free to explore the list of previous projects available on bCourses!
+The final project will constitute the largest single portion of your grade for this course and must include sensing, planning, and actuation components on real hardware. Project deliverables include a proposal, a video, a live demo, a final report, and several intermediate check-ins. Further information will be forthcoming.
 Due to the types of deliverables involved (e.g., live demonstrations), slack days may not be used on project deliverables, and late work will not be accepted.
 
 ## Office Hours
