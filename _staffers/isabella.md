@@ -5,4 +5,4 @@ email: tiffanyec@
 photo: assets/isabella.png
 ---
 
-Discussion TA
+Discussion/Content TA
