@@ -1,6 +1,6 @@
 ---
 name: Amay Saxena
-role: Teaching Assistant
+role: Content TA
 email: amaysaxena@
 photo: assets/nopic.JPG
 ---
