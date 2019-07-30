@@ -1,6 +1,6 @@
 ---
 name: Jun Zeng
-role: Teaching Assistant
+role: Content TA
 email: zengjunsjtu@
 photo: assets/jun.JPG
 ---
