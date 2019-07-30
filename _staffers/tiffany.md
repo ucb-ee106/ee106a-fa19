@@ -1,6 +1,6 @@
 ---
 name: Tiffany Cappellari
-role: Teaching Assistant
+role: Content TA
 email: tiffanyec@
 photo: assets/tiffany.jpg
 ---
