@@ -1,6 +1,6 @@
 ---
 name: Isabella Huang
-role: Teaching Assistant
+role: Content TA
 email: isabella.huang@
 photo: assets/isabella.JPG
 ---
