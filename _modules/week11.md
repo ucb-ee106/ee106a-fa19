@@ -1,5 +1,5 @@
 ---
-title: Week 12
+title: Week 11
 days:
   - topic: Veterans Day
     date: 2019-11-11
@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- [Lab 12]
-- [Homework 12]
+- [Lab 11]
+- [Homework 11]
