@@ -1,14 +1,14 @@
 ---
 title: Week 2
 days:
-  - topic: 
-    date: 2019-04-08
+  - topic: Labor Day
+    date: 2019-09-02
     description: 
   - topic:
-    date: 2019-04-10
+    date: 2019-09-04
     description: 
   - topic: 
-    date: 2019-04-12
+    date: 2019-09-06
     description: 
 ---
 
