@@ -4,10 +4,10 @@ days:
   - topic: 
     date: 2019-11-25
     description: 
-  - topic: No Class
+  - topic: Thanksgiving Break
     date: 2019-11-27
     description: 
-  - topic: No Class
+  - topic: Thanksgiving Break
     date: 2019-11-29
     description: 
 ---
