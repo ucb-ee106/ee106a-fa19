@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 0
 days:
   - topic: 
     date: 2019-08-28
