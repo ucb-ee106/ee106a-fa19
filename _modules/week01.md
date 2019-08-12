@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Week 1
 days:
   - topic: Labor Day
     date: 2019-09-02
