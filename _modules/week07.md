@@ -1,5 +1,5 @@
 ---
-title: Week 8
+title: Week 7
 days:
   - topic: 
     date: 2019-10-14
@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- [Lab 8]
-- [Homework 8]
+- [Lab 7]
+- [Homework 7]
