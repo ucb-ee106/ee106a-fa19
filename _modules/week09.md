@@ -2,13 +2,13 @@
 title: Week 9
 days:
   - topic: 
-    date: 2019-04-08
+    date: 2019-10-21
     description: 
   - topic:
-    date: 2019-04-10
+    date: 2019-10-23
     description: 
   - topic: 
-    date: 2019-04-12
+    date: 2019-10-25
     description: 
 ---
 
