@@ -2,13 +2,13 @@
 title: Week 14
 days:
   - topic: 
-    date: 2019-04-08
+    date: 2019-11-25
     description: 
-  - topic:
-    date: 2019-04-10
+  - topic: No Class
+    date: 2019-11-27
     description: 
-  - topic: 
-    date: 2019-04-12
+  - topic: No Class
+    date: 2019-11-29
     description: 
 ---
 
