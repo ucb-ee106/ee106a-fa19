@@ -2,15 +2,15 @@
 title: Week 3
 days:
   - topic: 
-    date: 2019-04-08
+    date: 2019-09-09
     description: 
   - topic:
-    date: 2019-04-10
+    date: 2019-09-11
     description: 
   - topic: 
-    date: 2019-04-12
+    date: 2019-09-13
     description: 
 ---
 
-- [Lab 2](#)
-- [Homework 2](#)
+- [Lab 3]
+- [Homework 3]
