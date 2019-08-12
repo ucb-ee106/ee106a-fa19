@@ -2,13 +2,13 @@
 title: Week 6
 days:
   - topic: 
-    date: 2019-04-08
+    date: 2019-09-30
     description: 
   - topic:
-    date: 2019-04-10
+    date: 2019-10-02
     description: 
   - topic: 
-    date: 2019-04-12
+    date: 2019-10-04
     description: 
 ---
 
