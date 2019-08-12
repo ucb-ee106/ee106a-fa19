@@ -2,13 +2,13 @@
 title: Week 13
 days:
   - topic: 
-    date: 2019-04-08
+    date: 2019-11-18
     description: 
   - topic:
-    date: 2019-04-10
+    date: 2019-11-20
     description: 
   - topic: 
-    date: 2019-04-12
+    date: 2019-11-22
     description: 
 ---
 
