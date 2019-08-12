@@ -1,5 +1,5 @@
 ---
-title: Week 11
+title: Week 10
 days:
   - topic: 
     date: 2019-11-04
@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- [Lab 11]
-- [Homework 11]
+- [Lab 10]
+- [Homework 10]
