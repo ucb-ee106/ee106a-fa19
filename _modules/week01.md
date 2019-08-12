@@ -2,13 +2,10 @@
 title: Week 1
 days:
   - topic: 
-    date: 2019-04-01
+    date: 2019-08-28
     description: 
   - topic: 
-    date: 2019-04-03
-    description: 
-  - topic: 
-    date: 2019-04-05
+    date: 2019-08-29
     description: 
 ---
 
