@@ -59,7 +59,7 @@ schedule:
         start: 12:00 PM
         end: 3:00 PM
         location: Cory 111
-        tas: Aakarsh, Jun
+        tas: Ron, Jun
       - name: Lab
         class: lab
         start: 3:00 PM
