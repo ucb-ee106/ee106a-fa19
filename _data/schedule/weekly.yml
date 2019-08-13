@@ -82,7 +82,7 @@ schedule:
         tas: Aakarsh, Jun
       - name: Discussion
         class: section
-        start: 5:00 AM
+        start: 5:00 PM
         end: 6:00 PM
         location: Cory 293
   - name: Friday
