@@ -1,41 +1,101 @@
 timeline: [
+'8:00 AM', '8:30 AM','9:00 AM', '9:30 AM', '10:00 AM', '10:30 AM', '11:00 AM', '11:30 AM',
   '12:00 PM', '12:30 PM', '1:00 PM', '1:30 PM', '2:00 PM', '2:30 PM',
-  '3:00 PM', '3:30 PM', '4:00 PM', '4:30 PM', '5:00 PM', '5:30 PM',
-  '6:00 PM', '6:30 PM', '7:00 PM', '7:30 PM', '8:00 PM', '8:30 PM',
+  '3:00 PM', '3:30 PM', '4:00 PM', '4:30 PM', '5:00 PM', '5:30 PM', '6:00 PM', '6:30 PM',
+  '7:00 PM', '7:30 PM', '8:00 PM', '8:30 PM',
 ]
 schedule:
   - name: Monday
     events:
       - name: Office Hours
         class: office-hours
-        start: 12:00 PM
+        start: 8:00 AM
+        end: 10:00 AM
+        location: Cory 111
+        tas: Stella
+      - name: Office Hours
+        class: office-hours
+        start: 3:00 PM
         end: 4:00 PM
-        location: 109 Morgan
+        location: Cory 111
+        tas: Tiffany
+      - name: Office Hours
+        class: office-hours
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Cory 111
+        tas: Valmik
+      - name: Office Hours
+        class: office-hours
+        start: 6:00 PM
+        end: 7:00 PM
+        location: Cory 111
+        tas: Jun
   - name: Tuesday
     events:
       - name: Office Hours
         class: office-hours
-        start: 12:00 PM
-        end: 4:00 PM
-        location: 109 Morgan
+        start: 8:00 AM
+        end: 9:00 AM
+        location: Cory 111
+        tas: Jenna
+      - name: Office Hours
+        class: office-hours
+        start: 6:30 PM
+        end: 7:30 PM
+        location: Cory 111
+        tas: Valmik
   - name: Wednesday
     events:
       - name: Office Hours
         class: office-hours
-        start: 12:00 PM
-        end: 4:00 PM
-        location: 109 Morgan
+        start: 8:30 AM
+        end: 9:30 AM
+        location: Cory 111
+        tas: Jenna
+      - name: Office Hours
+        class: office-hours
+        start: 9:30 AM
+        end: 10:30 AM
+        location: Cory 111
+        tas: Tiffany
+      - name: Office Hours
+        class: office-hours
+        start: 1:30 PM
+        end: 2:30 PM
+        location: Cory 111
+        tas: Prof. Sastry
+      - name: Office Hours
+        class: office-hours
+        start: 6:00 PM
+        end: 7:00 PM
+        location: Cory 111
+        tas: Grant
   - name: Thursday
     events:
       - name: Office Hours
         class: office-hours
         start: 12:00 PM
-        end: 4:00 PM
-        location: 109 Morgan
+        end: 1:00 PM
+        location: Cory 111
+        tas: Isabella
+      - name: Office Hours
+        class: office-hours
+        start: 1:30 PM
+        end: 2:30 PM
+        location: Cory 111
+        tas: Prof. Sastry
+      - name: Office Hours
+        class: office-hours
+        start: 6:30 PM
+        end: 7:30 PM
+        location: Cory 111
+        tas: Jun
   - name: Friday
     events:
       - name: Office Hours
         class: office-hours
-        start: 12:00 PM
-        end: 4:00 PM
-        location: 109 Morgan
+        start: 9:30 AM
+        end: 10:30 AM
+        location: Cory 111
+        tas: Isabella
