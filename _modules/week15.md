@@ -1,16 +1,14 @@
 ---
 title: Week 14
 days:
-  - topic: 
+  - topic: Special Topics
     date: 2019-12-02
     description: 
-  - topic:
+  - topic: Special Topics
     date: 2019-12-04
     description: 
-  - topic: 
+  - topic: Special Topics
     date: 2019-12-06
     description: 
 ---
 
-- [Lab 14]
-- [Homework 14]
