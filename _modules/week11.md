@@ -13,3 +13,4 @@ days:
 ---
 
 - Discussion 10: Midterm II Review
+- Lab 7/Lab 8
