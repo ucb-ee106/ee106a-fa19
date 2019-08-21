@@ -24,7 +24,7 @@ schedule:
         start: 9:00 AM
         end: 12:00 PM
         location: Cory 111
-        tas: Amay, Stella
+        tas: Stella, Amay
       - name: Lab
         class: lab
         start: 12:30 PM
@@ -36,7 +36,7 @@ schedule:
         start: 3:30 PM
         end: 6:30 PM
         location: Cory 111
-        tas: Ron, Amay
+        tas: Amay, Ron
   - name: Wednesday
     events:
       - name: Discussion
@@ -65,7 +65,7 @@ schedule:
         start: 3:00 PM
         end: 6:00 PM
         location: Cory 111
-        tas: Tiffany, Jenna
+        tas: Jenna, Tiffany
   - name: Thursday
     events:
       - name: Lab
@@ -73,13 +73,13 @@ schedule:
         start: 9:00 AM
         end: 12:00 PM
         location: Cory 111
-        tas: Stella, Aakarsh
+        tas: Aakarsh, Stella
       - name: Lab
         class: lab
         start: 3:30 PM
         end: 6:30 PM
         location: Cory 111
-        tas: Aakarsh, Jun
+        tas: Jun, Aakarsh
       - name: Discussion
         class: section
         start: 5:00 PM
@@ -112,5 +112,5 @@ schedule:
         start: 3:00 PM
         end: 6:00 PM
         location: Cory 111
-        tas: Jenna, Stella
+        tas: Stella, Jenna
       
