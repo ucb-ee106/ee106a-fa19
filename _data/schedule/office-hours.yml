@@ -97,14 +97,8 @@ schedule:
         class: office-hours
         start: 9:30 AM
         end: 10:30 AM
-        location: Cory 337B
-        tas: Isabella
-      - name: Office Hours
-        class: office-hours
-        start: 9:30 AM
-        end: 10:30 AM
-        location: Cory 111
-        tas: Ron
+        location: Cory 337B, Cory 111
+        tas: Isabella, Ron
       - name: Office Hours
         class: office-hours
         start: 12:30 PM
