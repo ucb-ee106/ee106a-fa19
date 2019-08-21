@@ -86,22 +86,22 @@ If you feel that your work has been graded unfairly, you may request a regrade b
 
 ## Due Dates
 
-Unless  otherwise  noted,  assignments  are  due  by **11:59** on  the  Monday  date  listed.   Homeworks  willtypically be released a week before the due date.  Problem sets are to be uploaded to GradeScope.
+Unless otherwise noted, assignments are  due  by **11:59 PM** on the date listed. Homeworks will typically be released a week before the due date. Problem sets are to be uploaded to GradeScope.
 
-|Tuesday 9/3 11:59 PM| HW0 (Python)|
-|Monday 9/9 11:59 PM| HW1 (Rotations)|
-|Monday 9/16 11:59 PM| HW2 (Forward Kinematics)|
-|Monday 9/23 11:59 PM| HW3 (Inverse Kinematics)|
+|Tuesday 9/3| HW0 (Python)|
+|Monday 9/9| HW1 (Rotations)|
+|Monday 9/16| HW2 (Forward Kinematics)|
+|Monday 9/23| HW3 (Inverse Kinematics)|
 |**Thursday 10/3** | **Midterm I**|
-|Thursday 10/10 11:59 PM| Project Mini-Proposal & Team|
-|Monday 10/14 11:59 PM| HW4 (Velocities)|
-|Monday 10/21 11:59 PM| HW5 (Wrenches)|
-|**Saturday 10/26 11:59 PM** | **Final Project Proposal & Parts List**|
-|Monday 10/28 11:59 PM| HW6 (Dynamics)|
-|Monday 11/4 11:59 PM| HW7 (Feedback)|
+|Thursday 10/10| Project Mini-Proposal & Team|
+|Monday 10/14| HW4 (Velocities)|
+|Monday 10/21| HW5 (Wrenches)|
+|**Saturday 10/26** | **Final Project Proposal & Parts List**|
+|Monday 10/28| HW6 (Dynamics)|
+|Monday 11/4| HW7 (Feedback)|
 |**Thursday 11/14** | **Midterm II**|
 |**Tuesday 12/12 & Wednesday 12/13** | **Final Project Presentations**|
-|**Wednesday 12/20 11:59 PM** | **Final Project Reports**|
+|**Wednesday 12/20** | **Final Project Reports**|
 
 ## Advice 
 
