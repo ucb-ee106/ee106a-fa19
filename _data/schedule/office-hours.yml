@@ -24,7 +24,7 @@ schedule:
         start: 4:00 PM
         end: 5:00 PM
         location: Cory 111
-        tas: Valmik
+        tas: Valmik, Amay
       - name: Office Hours
         class: office-hours
         start: 6:00 PM
@@ -61,29 +61,29 @@ schedule:
         tas: Tiffany
       - name: Office Hours
         class: office-hours
-        start: 1:30 PM
-        end: 2:30 PM
-        location: Cory 111
+        start: 1:15 PM
+        end: 2:15 PM
+        location: Cory 333B
         tas: Prof. Sastry
       - name: Office Hours
         class: office-hours
         start: 6:00 PM
         end: 7:00 PM
         location: Cory 111
-        tas: Grant
+        tas: Ron
   - name: Thursday
     events:
       - name: Office Hours
         class: office-hours
         start: 12:00 PM
         end: 1:00 PM
-        location: Cory 111
+        location: Cory 337B
         tas: Isabella
       - name: Office Hours
         class: office-hours
         start: 1:30 PM
         end: 2:30 PM
-        location: Cory 111
+        location: Cory 333B
         tas: Prof. Sastry
       - name: Office Hours
         class: office-hours
@@ -97,5 +97,17 @@ schedule:
         class: office-hours
         start: 9:30 AM
         end: 10:30 AM
-        location: Cory 111
+        location: Cory 337B
         tas: Isabella
+      - name: Office Hours
+        class: office-hours
+        start: 9:30 AM
+        end: 10:30 AM
+        location: Cory 111
+        tas: Ron
+      - name: Office Hours
+        class: office-hours
+        start: 12:30 PM
+        end: 2:30 PM
+        location: Cory 111
+        tas: Grant
