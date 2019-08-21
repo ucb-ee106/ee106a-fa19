@@ -1,13 +1,11 @@
 ---
 title: Week 15
 days:
-  - topic: RRR Week
-    date: 2019-12-09
+  - topic: Final Project Presentations
+    date: 2019-12-12
     description: 
-  - topic: RRR Week
-    date: 2019-12-11
-    description: 
-  - topic: RRR Week
+  - topic: Final Project Presentations
     date: 2019-12-13
     description: 
 ---
+RRR Week: No Lectures
