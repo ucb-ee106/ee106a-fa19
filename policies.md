@@ -20,6 +20,17 @@ description: >-
 
 This course is an introduction to the field of robotics. It covers the fundamentals of kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course deals with forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on computer vision and robot motion planning. The course concludes with current applications of robotics in active perception, medical robotics, autonomous vehicles, and other areas. **Students are expected to have a background in linear algebra, calculus, and basic physics, as well as familiarity with the Python programming language.** The lectures are supplemented with homeworks and experimental work in the laboratory using several <a href="http://www.rethinkrobotics.com/baxter/">Baxter</a>, <a href="http://www.rethinkrobotics.com/sawyer/">Sawyer</a>, and <a href="http://www.turtlebot.com/turtlebot2/">TurtleBot</a> robots. There are two midterms, but no final exam. The last month of the course is devoted to the design and implementation of a final project, carried out individually or in groups of approximately four students.
 
+Questions regarding homeworks,exams,lectures, and discussions should be directed to Isabella or Valmik. Questions regarding labs should be directed to a lab TA or Valmik. Questions regarding course logistics should be directed to Valmik. All questions can and should be directed to Piazza for the fastest response. When emailing a GSI, please prefix the subject line with [EE106A].
+
+## Resources
+
+The required text is Richard Murray, Zexiang Li and S. Shankar Sastry’s *A Mathematical Introduction to Robotic Manipulation* (first edition digitally available <a href="http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition">here</a>). Additional lectures will cover the basics of computer vision, path planning, state estimation, and control. We will also use supplementary material from
+the book by Ma Yi, Stefano Soatto, Jana Kosecka, and Shankar Sastry *An Invitation to 3 D Vision: From Images to Geometric Models*, Springer Verlag, 2004 (slides willl be provided) and from the motion planning book of Howie Choset, Kevin Lynch, Seth Hutchinson, George Kantor, Wolfram Burgard, and Sebastian Thrun *Principles of Robot Motion Planning: Theory, Algorithms, and Implementation*, MIT Press, 2005. You are not required to purchase these two references.
+
+## Disability Accommodations & Emergencies
+
+If you need disability-related accommodations in this class, if you have emergency medical information you wish to share with us, or if you need special arrangements in case the building must be evacuated, please inform us immediately. Please see the professor or GSIs privately after class or send us an email.
+
 ## Grade Breakdown
 
 |Homeworks| 20%|
@@ -27,14 +38,9 @@ This course is an introduction to the field of robotics. It covers the fundament
 |Labs| 20%|
 |Final Project| 40%|
 
-## Resources
-
-The required text is Richard Murray, Zexiang Li and S. Shankar Sastry’s *A Mathematical Introduction to Robotic Manipulation* (first edition digitally available <a href="http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition">here</a>). Additional lectures will cover the basics of computer vision, path planning, state estimation, and control. We will also use supplementary material from
-the book by Ma Yi, Stefano Soatto, Jana Kosecka, and Shankar Sastry *An Invitation to 3 D Vision: From Images to Geometric Models*, Springer Verlag, 2004 (slides willl be provided) and from the motion planning book of Howie Choset, Kevin Lynch, Seth Hutchinson, George Kantor, Wolfram Burgard, and Sebastian Thrun *Principles of Robot Motion Planning: Theory, Algorithms, and Implementation*, MIT Press, 2005. You are not required to purchase these two references.
-
 ## Homeworks
 
-Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **CHANGETHIS**.
+Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **9V4W5V.**.
 
 There will be a total of between 6 to 8 homeworks, due weekly through mid-November. Each student is allocated 5 total days of extension, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** After the extension days have elapsed, homeworks will be accepted for a geometrically decreasing number of points (i.e., 1 day late -> half credit, 2 days late -> quarter credit, . . . , N days late -> 1=2N credit).
 
@@ -57,7 +63,7 @@ Labs should ideally be completed by the end of your assigned lab section, and ar
 
 *The start of your lab section is a hard cutoff — that is, if an assignment is due at the start of lab section, you may not check off that assignment at the start of class for full credit; it must be checked off beforehand. This policy is in place because many of the labs fully fill the allotted time, and we want to keep everyone on schedule.*
 
-If labs are not completed and checked off by the times above, they may be checked off for half credit for one week following the deadline, after which no credit will be given. Labs may be worked on outside of class hours as long as proper safety policies are followed (namely, you have been instructed in the correct policies and etiquette for the hardware you are using, and if you are using hardware, two or more people are present in the lab). Labs may be checked off at the office hours ofany lab TA or Valmik, or you may request to attend a different lab section for the check-off by asking a GSI. Note that many of the labs in this class are full, and you will not be allowed to attend them.
+Labs may be worked on outside of class hours as long as proper safety policies are followed (namely, you have been instructed in the correct policies and etiquette for the hardware you are using, and if you are using hardware, two or more people are present in the lab). Labs may be checked off at the office hours ofany lab TA or Valmik, or you may request to attend a different lab section for the check-off by asking a GSI. Note that many of the labs in this class are full, and you will not be allowed to attend them.
 
 We understand that these policies are a bit nuanced,  and if you have questions,  please ask us!  We’ve done our best to create a policy that allows for flexibility while encouraging people to stay on schedule and maintaining fairness; to do so, we’ve sacrificed simplicity.
 
@@ -82,20 +88,20 @@ If you feel that your work has been graded unfairly, you may request a regrade b
 
 Unless  otherwise  noted,  assignments  are  due  by **11:59** on  the  Monday  date  listed.   Homeworks  willtypically be released a week before the due date.  Problem sets are to be uploaded to GradeScope.
 
-|9/3 | HW0 (Python)|
-|9/9 | HW1 (Rotations)|
-|9/16 | HW2 (Forward Kinematics)|
-|9/23 | HW3 (Inverse Kinematics)|
-|**10/3** | **Midterm I**|
-|10/10 | Project Mini-Proposal & Team|
-|10/14 | HW4 (Velocities)|
-|10/21 | HW5 (Wrenches)|
-|**10/26** | **Final Project Proposal & Parts List**|
-|10/28 | HW6 (Dynamics)|
-|11/4 | HW7 (Feedback)|
-|**11/14** | **Midterm II**|
-|**12/12 & 12/13** | **Final Project Presentations**|
-|**12/20** | **Final Project Reports**|
+|Tuesday 9/3 11:59 PM| HW0 (Python)|
+|Monday 9/9 11:59 PM| HW1 (Rotations)|
+|Monday 9/16 11:59 PM| HW2 (Forward Kinematics)|
+|Monday 9/23 11:59 PM| HW3 (Inverse Kinematics)|
+|**Thursday 10/3** | **Midterm I**|
+|Thursday 10/10 11:59 PM| Project Mini-Proposal & Team|
+|Monday 10/14 11:59 PM| HW4 (Velocities)|
+|Monday 10/21 11:59 PM| HW5 (Wrenches)|
+|**Saturday 10/26 11:59 PM** | **Final Project Proposal & Parts List**|
+|Monday 10/28 11:59 PM| HW6 (Dynamics)|
+|Monday 11/4 11:59 PM| HW7 (Feedback)|
+|**Thursday 11/14** | **Midterm II**|
+|**Tuesday 12/12 & Wednesday 12/13** | **Final Project Presentations**|
+|**Wednesday 12/20 11:59 PM** | **Final Project Reports**|
 
 ## Advice 
 
