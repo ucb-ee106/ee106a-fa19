@@ -1,7 +1,7 @@
 ---
 title: Week 2
 days:
-  - topic: Labor Day: No Class
+  - topic: Labor Day - No Class
     date: 2019-09-02
     description: 
   - topic: Homogeneous Coordinates/Exponential Coordinates
