@@ -13,3 +13,4 @@ days:
 ---
 
 - Discussion 7: Jacobians, Wrenches
+- Lab 5/Lab 6
