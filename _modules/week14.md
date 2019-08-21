@@ -11,6 +11,3 @@ days:
     date: 2019-11-29
     description: 
 ---
-
-- [Lab 13]
-- [Homework 13]
