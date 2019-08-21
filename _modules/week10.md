@@ -1,16 +1,16 @@
 ---
-title: Week 9
+title: Week 10
 days:
-  - topic: 
+  - topic: Control
     date: 2019-10-28
     description: 
-  - topic:
+  - topic: Control
     date: 2019-10-30
     description: 
-  - topic: 
+  - topic: Control
     date: 2019-11-01
     description: 
 ---
 
-- [Lab 9]
-- [Homework 9]
+- Discussion 9: Control
+- Lab 7/Lab 8
