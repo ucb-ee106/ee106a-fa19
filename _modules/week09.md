@@ -1,16 +1,15 @@
 ---
-title: Week 8
+title: Week 9
 days:
-  - topic: 
+  - topic: Dynamics
     date: 2019-10-21
     description: 
-  - topic:
+  - topic: Dynamics
     date: 2019-10-23
     description: 
-  - topic: 
+  - topic: Dynamics
     date: 2019-10-25
     description: 
 ---
 
-- [Lab 8]
-- [Homework 8]
+- Discussion 8: Dynamics
