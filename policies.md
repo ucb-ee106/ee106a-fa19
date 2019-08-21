@@ -89,16 +89,16 @@ Unless  otherwise  noted,  assignments  are  due  by **11:59** on  the  Monday  
 |9/9 | HW1 (Rotations)|
 |9/16 | HW2 (Forward Kinematics)|
 |9/23 | HW3 (Inverse Kinematics)|
-|**10/3 | Midterm I**|
+|**10/3** | **Midterm I**|
 |10/10 | Project Mini-Proposal & Team|
 |10/14 | HW4 (Velocities)|
 |10/21 | HW5 (Wrenches)|
-|**10/26 | Final Project Proposal & Parts List**|
+|**10/26** | **Final Project Proposal & Parts List**|
 |10/28 | HW6 (Dynamics)|
 |11/4 | HW7 (Feedback)|
-|**11/14 | Midterm II**|
-|**12/12 & 12/13 | Final Project Presentations**|
-|**12/20 | Final Project Reports**|
+|**11/14** | **Midterm II**|
+|**12/12 & 12/13** | **Final Project Presentations**|
+|**12/20** | **Final Project Reports**|
 
 ## Advice 
 
