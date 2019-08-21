@@ -18,7 +18,7 @@ description: >-
 ---
 ## About the Course
 
-This course is an introduction to the field of robotics. It covers the fundamentals of kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course deals with forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications of robotics in active perception, medical robotics, autonomous vehicles, and other areas. Students are expected to have a background in linear algebra, calculus, and basic physics, as well as familiarity with the Python programming language. The lectures are supplemented with homeworks and experimental work in the laboratory using several Baxter, Sawyer, and TurtleBot robots. There are two midterms, but no final exam. The last month of the course is devoted to the design and implementation of a final project, carried out individually or in groups of 2-4 students. All questions can and should be directed to **Piazza** for the fastest response.
+This course is an introduction to the field of robotics. It covers the fundamentals of kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course deals with forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on computer vision and robot motion planning. The course concludes with current applications of robotics in active perception, medical robotics, autonomous vehicles, and other areas. **Students are expected to have a background in linear algebra, calculus, and basic physics, as well as familiarity with the Python programming language.** The lectures are supplemented with homeworks and experimental work in the laboratory using several <a href="http://www.rethinkrobotics.com/baxter/">Baxter</a>, <a href="http://www.rethinkrobotics.com/sawyer/">Sawyer</a>, and <a href="http://www.turtlebot.com/turtlebot2/">TurtleBot</a> robots. There are two midterms, but no final exam. The last month of the course is devoted to the design and implementation of a final project, carried out individually or in groups of approximately four students.
 
 ## Grade Breakdown
 
@@ -32,14 +32,15 @@ Final Project 40%
 
 ## Resources
 
-The required text is Richard Murray, Zexiang Li and S. Shankar Sastry’s A Mathematical Introduction to Robotic Manipulation (first edition digitally available <a href="http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition">here</a>). Additional lectures will cover the basics of computer vision, path planning, state estimation, and control.
-
+The required text is Richard Murray, Zexiang Li and S. Shankar Sastry’s *A Mathematical Introduction to Robotic Manipulation* (first edition digitally available <a href="http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition">here</a>). Additional lectures will cover the basics of computer vision, path planning, state estimation, and control. We will also use supplementary material from
+the book by Ma Yi, Stefano Soatto, Jana Kosecka, and Shankar Sastry *An Invitation to 3 D Vision: From Images to Geometric Models*, Springer Verlag, 2004 (slides willl be provided) and from the motion planning book of Howie Choset, Kevin Lynch, Seth Hutchinson, George Kantor, Wolfram Burgard, and Sebastian Thrun *Principles of Robot Motion Planning: Theory, Algorithms, and Implementation*, MIT Press, 2005. You are not required to purchase these two references.
 
 ## Homeworks
 
-Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **CODE**.
+Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **CHANGETHIS**.
 
-There will be a total of 7 homeworks, due weekly through mid-November. Each student is allocated 5 total days of extension, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, no more than 2 extension days may be used on a single assignment. After the extension days have elapsed, homeworks will be accepted for a geometrically decreasing number of points (i.e., 1 day late -> half credit, 2 days late -> quarter credit, . . . , N days late -> 1=2N credit).
+There will be a total of between 6 to 8 homeworks, due weekly through mid-November. Each student is allocated 5 total days of extension, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** After the extension days have elapsed, homeworks will be accepted for a geometrically decreasing number of points (i.e., 1 day late -> half credit, 2 days late -> quarter credit, . . . , N days late -> 1=2N credit).
+
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
 ## Midterms
@@ -48,7 +49,9 @@ There will be two midterms covering the course material, on **October 3, Thursda
 
 ## Labs
 
-Mandatory lab sections will meet each week beginning the first full week of classes and will run through the week of October 30. Please ensure that you have been assigned a lab section that you are regularly able to attend, as we rely on an even distribution of students so that everyone has access to hardware. In lieu of formal reports, labs are completed by discussing your system with and demonstrating its functionality to your lab GSI during various “check-offs” specified in each lab description. **Note that all students who are being checked off must be present at the time of the check-off, in the interest of making sure everyone can fully explain the code and system functionality. In the event that you cannot attend your scheduled lab section one week, please inform your lab’s head GSI before the meeting of the lab and we will do our best to accommodate you in a different lab section for the week.** Note that we cannot promise to accommodate after-the-fact requests to attend a different section. 
+Mandatory lab sections will meet each week beginning the first full week of classes and will run through the week of October 30. Please ensure that you have been assigned a lab section that you are regularly able to attend, as we rely on an even distribution of students so that everyone has access to hardware. In lieu of formal reports, labs are completed by discussing your system with and demonstrating its functionality to your lab GSI during various “check-offs” specified in each lab description. **Note that all students who are being checked off must be present at the time of the check-off, in the interest of making sure everyone can fully explain the code and system functionality.** 
+
+**In the event that you cannot attend your scheduled lab section one week, please inform your lab’s head GSI before the meeting of the lab and we will do our best to accommodate you in a different lab section for the week.** Note that we cannot promise to accommodate after-the-fact requests to attend a different section. 
 
 Labs should ideally be completed by the end of your assigned lab section, and are scoped such that this should be feasible. We recognize, however, that due to different levels of previous experience with the material — as well as the challenges of working with real hardware — this will not always be possible. In order to accommodate this variation while ensuring that students do not fall behind, we have developed the following (admittedly complex) policies:
 
@@ -82,6 +85,20 @@ If you feel that your work has been graded unfairly, you may request a regrade b
 
 Unless  otherwise  noted,  assignments  are  due  by **11:59** on  the  Monday  date  listed.   Homeworks  willtypically be released a week before the due date.  Problem sets are to be uploaded to GradeScope.
 
+|9/3 | HW0 (Python)|
+|9/9 | HW1 (Rotations)|
+|9/16 | HW2 (Forward Kinematics)|
+|9/23 | HW3 (Inverse Kinematics)|
+|**10/3 | Midterm I**|
+|10/10 | Project Mini-Proposal & Team|
+|10/14 | HW4 (Velocities)|
+|10/21 | HW5 (Wrenches)|
+|**10/26 | Final Project Proposal & Parts List**|
+|10/28 | HW6 (Dynamics)|
+|11/4 | HW7 (Feedback)|
+|**11/14 | Midterm II**|
+|**12/12 & 12/13 | Final Project Presentations**|
+|**12/20 | Final Project Reports**|
 
 ## Advice 
 
