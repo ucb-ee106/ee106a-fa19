@@ -44,7 +44,7 @@ Collaboration on homework sets is encouraged, but all students must write up the
 
 ## Midterms
 
-There will be two midterms covering the course material, on September 27 and November 8. Each midterm will be 80 minutes and will occur during lecture. If you have an anticipated conflict with one of the midterm dates, please notify the GSIs by email before the end of the second week of the term.
+There will be two midterms covering the course material, on **October 3, Thursday**, and **November 14, Thursday**.  Each midterm will be 80 minutes and will occur after hours on Thursdays.  The lecture sectionon the following Friday will be canceled.  If you have an anticipated conflict with one of the midterm dates,please notify the GSIs by email before the end of the second week of the term.
 
 ## Labs
 
@@ -57,20 +57,31 @@ Labs should ideally be completed by the end of your assigned lab section, and ar
 
 *The start of your lab section is a hard cutoff — that is, if an assignment is due at the start of lab section, you may not check off that assignment at the start of class for full credit; it must be checked off beforehand. This policy is in place because many of the labs fully fill the allotted time, and we want to keep everyone on schedule.*
 
-If labs are not completed and checked off by the times above, they may be checked off for half credit for one week following the deadline, after which no credit will be given. Labs may be worked on outside of class hours as long as proper safety policies are followed (namely, you have been instructed in the correct policies and etiquette for the hardware you are using, and if you are using hardware, two or more people are present in the lab). Labs may be checked off at lab TAs' office hours or you may request to attend a different lab section for the check-off by asking a GSI. Note that many of the labs in this class are full, and you will not be allowed to attend them.
+If labs are not completed and checked off by the times above, they may be checked off for half credit for one week following the deadline, after which no credit will be given. Labs may be worked on outside of class hours as long as proper safety policies are followed (namely, you have been instructed in the correct policies and etiquette for the hardware you are using, and if you are using hardware, two or more people are present in the lab). Labs may be checked off at the office hours ofany lab TA or Valmik, or you may request to attend a different lab section for the check-off by asking a GSI. Note that many of the labs in this class are full, and you will not be allowed to attend them.
+
+We understand that these policies are a bit nuanced,  and if you have questions,  please ask us!  We’ve done our best to create a policy that allows for flexibility while encouraging people to stay on schedule and maintaining fairness; to do so, we’ve sacrificed simplicity.
 
 ## Final Project
 
 The final project will constitute the largest single portion of your grade for this course and must include sensing, planning, and actuation components on real hardware. Project deliverables include a proposal, a video, a live demo, a final report, and several intermediate check-ins. Further information will be forthcoming.
-Due to the types of deliverables involved (e.g., live demonstrations), slack days may not be used on project deliverables, and late work will not be accepted.
+Due to the types of deliverables involved (e.g., live demonstrations), slack days may **not** be used on project deliverables, and late work will not be accepted.
 
 ## Office Hours
 
-The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will not provide solutions. Rather, instructors will be happy to help clarify fundamentals and to guide students’ reasoning in related problems.
+The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will **not** provide solutions. Rather, instructors will be happy to help clarify fundamentals and to guide students’ reasoning in related problems.
+
+## A Note on Late Work
+
+While  we  will  abide  by  the  policies  listed  above  regarding  specific  assignment  types,  we  understand  that unforeseen circumstances do happen.  If you feel that you will not be able to complete an assignment on time under the policies listed above due to truly extenuating circumstances, please inform a course instructor as soon as possible and before the associated deadline to discuss your situation. Once the deadline has passed, accommodations are unlikely.
 
 ## Regrade Requests
 
 If you feel that your work has been graded unfairly, you may request a regrade by submitting a request on Gradescope with a written statement explaining the mistake. Be aware that points may be deducted as well as added if a regrade is requested.
+
+## Due Dates
+
+Unless  otherwise  noted,  assignments  are  due  by **11:59** on  the  Monday  date  listed.   Homeworks  willtypically be released a week before the due date.  Problem sets are to be uploaded to GradeScope.
+
 
 ## Advice 
 
