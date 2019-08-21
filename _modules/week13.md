@@ -12,4 +12,4 @@ days:
     description: 
 ---
 
-Discussion 12: Project Discussion
+- Discussion 12: Project Discussion
