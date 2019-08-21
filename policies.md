@@ -22,13 +22,10 @@ This course is an introduction to the field of robotics. It covers the fundament
 
 ## Grade Breakdown
 
-Homeworks 20%
-
-Midterms 20%
-
-Labs 20%
-
-Final Project 40%
+|Homeworks| 20%|
+|Midterms| 20%|
+|Labs| 20%|
+|Final Project| 40%|
 
 ## Resources
 
