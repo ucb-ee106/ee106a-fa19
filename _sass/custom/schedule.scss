@@ -78,12 +78,36 @@
   float: left;
   height: 100%;
   margin: 0;
-  padding: $sp-2;
   position: absolute;
   width: 100%;
 
-  div {
-    @extend .fs-2, .fw-700;
+  &.left {
+    width: 50%;
+  }
+  &.right {
+    width: 50%;
+    right: 0;
+  }
+  &.middle {
+    width: 94%;
+    left: 3%;
+  }
+
+  >div {
+    position: absolute;
+    top: 0;
+    bottom: 3px;
+    left: 0;
+    right: 0;
+
+    border-radius: $border-radius;
+    overflow: scroll;
+    padding: $sp-2;
+
+    >div {
+      @extend .fw-700;
+      font-size: 75%;
+    }
   }
 
   &.lecture {

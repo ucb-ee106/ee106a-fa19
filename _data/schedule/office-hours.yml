@@ -5,115 +5,104 @@ timeline: [
   '7:00 PM', '7:30 PM'
 ]
 schedule:
-  - name: Monday
-    events:
-      - name: Office Hours
-        class: office-hours
-        start: 8:00 AM
-        end: 10:00 AM
-        location: Cory 111
-        tas: Stella
-      - name: Office Hours
-        class: office-hours
-        start: 3:00 PM
-        end: 4:00 PM
-        location: Cory 111
-        tas: Tiffany
-      - name: Office Hours
-        class: office-hours
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Cory 111
-        tas: Valmik, Amay
-      - name: Office Hours
-        class: office-hours
-        start: 6:00 PM
-        end: 7:00 PM
-        location: Cory 111
-        tas: Jun
-  - name: Tuesday
-    events:
-      - name: Office Hours
-        class: office-hours
-        start: 8:00 AM
-        end: 9:00 AM
-        location: Cory 111
-        tas: Jenna
-      - name: Office Hours
-        class: office-hours
-        start: 6:30 PM
-        end: 7:30 PM
-        location: Cory 111
-        tas: Valmik
-  - name: Wednesday
-    events:
-      - name: Office Hours
-        class: office-hours
-        start: 8:30 AM
-        end: 9:30 AM
-        location: Cory 111
-        tas: Jenna
-      - name: Office Hours
-        class: office-hours
-        start: 9:30 AM
-        end: 10:30 AM
-        location: Cory 111
-        tas: Tiffany
-      - name: Office Hours
-        class: office-hours
-        start: 1:15 PM
-        end: 2:15 PM
-        location: Cory 333B
-        tas: Prof. Sastry
-      - name: Office Hours
-        class: office-hours
-        start: 6:00 PM
-        end: 7:00 PM
-        location: Cory 111
-        tas: Ron
-  - name: Thursday
-    events:
-      - name: Office Hours
-        class: office-hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Cory 337B
-        tas: Isabella
-      - name: Office Hours
-        class: office-hours
-        start: 12:00 PM
-        end: 2:00 PM
-        location: Cory 111
-        tas: Aakarsh
-      - name: Office Hours
-        class: office-hours
-        start: 2:00 PM
-        end: 3:00 PM
-        location: Cory 333B
-        tas: Prof. Sastry
-      - name: Office Hours
-        class: office-hours
-        start: 1:30 PM
-        end: 2:30 PM
-        location: Cory 111
-        tas: Amay
-      - name: Office Hours
-        class: office-hours
-        start: 6:30 PM
-        end: 7:30 PM
-        location: Cory 111
-        tas: Jun
-  - name: Friday
-    events:
-      - name: Office Hours
-        class: office-hours
-        start: 9:30 AM
-        end: 10:30 AM
-        location: Cory 337B, Cory 111
-        tas: Isabella, Ron
-      - name: Office Hours
-        class: office-hours
-        start: 12:30 PM
-        end: 2:30 PM
-        location: Cory 111
-        tas: Grant
+- name: Monday
+  events:
+  - name: Stella
+    class: office-hours
+    start: 8:00 AM
+    end: 10:00 AM
+    location: Cory 111
+  - name: Tiffany
+    class: office-hours
+    start: 3:00 PM
+    end: 4:00 PM
+    location: Cory 111
+  - name: Valmik, Amay
+    class: office-hours
+    start: 4:00 PM
+    end: 5:00 PM
+    location: Cory 111
+  - name: Jun
+    class: office-hours
+    start: 6:00 PM
+    end: 7:00 PM
+    location: Cory 111
+- name: Tuesday
+  events:
+  - name: Jenna
+    class: office-hours
+    start: 8:00 AM
+    end: 9:00 AM
+    location: Cory 111
+  - name: Valmik
+    class: office-hours
+    start: 6:30 PM
+    end: 7:30 PM
+    location: Cory 111
+- name: Wednesday
+  events:
+  - name: Jenna
+    class: office-hours
+    start: 8:30 AM
+    end: 9:30 AM
+    location: Cory 111
+  - name: Tiffany
+    class: office-hours
+    start: 9:30 AM
+    end: 10:30 AM
+    location: Cory 111
+  - name: Prof. Sastry
+    class: office-hours
+    start: 1:15 PM
+    end: 2:15 PM
+    location: Cory 333B
+  - name: Ron
+    class: office-hours
+    start: 6:00 PM
+    end: 7:00 PM
+    location: Cory 111
+- name: Thursday
+  events:
+  - name: Aakarsh
+    class: office-hours left
+    start: 12:00 PM
+    end: 2:00 PM
+    location: Cory 111
+  - name: Isabella
+    class: office-hours right
+    start: 12:00 PM
+    end: 1:00 PM
+    location: Cory 337B
+  - name: Amay
+    class: office-hours right
+    start: 1:30 PM
+    end: 2:30 PM
+    location: Cory 111
+  - name: Prof. Sastry
+    class: office-hours left
+    start: 2:00 PM
+    end: 3:00 PM
+    location: Cory 333B
+  - name: Jun
+    class: office-hours
+    start: 6:30 PM
+    end: 7:30 PM
+    location: Cory 111
+- name: Friday
+  events:
+  - name: Isabella
+    class: office-hours left
+    start: 9:30 AM
+    end: 10:30 AM
+    location: Cory 337B
+  - name: Ron
+    class: office-hours right
+    start: 9:30 AM
+    end: 10:30 AM
+    location: Cory 111
+  - name: Grant
+    class: office-hours
+    start: 12:30 PM
+    end: 2:30 PM
+    location: Cory 111
+

@@ -81,7 +81,7 @@ schedule:
         location: Cory 111
         tas: Jun, Aakarsh
       - name: Discussion
-        class: section
+        class: section middle
         start: 5:00 PM
         end: 6:00 PM
         location: Cory 293

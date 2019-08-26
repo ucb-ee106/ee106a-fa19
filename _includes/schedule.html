@@ -11,7 +11,7 @@
   {% assign timeline_first = include.data.timeline | first %}
   {% capture offset %}{% include _minutes.html time=timeline_first %}{% endcapture %}
 {% endcapture %}{% assign schedule_workspace = '' %}
-<div class="schedule">
+<div class="schedule" style="font-size: {{ include.font_size }}">
   <ul class="schedule-timeline" style="margin-top: {{ include.row_height }}px">
     {% for time in include.data.timeline %}
     <li class="schedule-time" style="height: {{ include.row_height }}px">
@@ -34,10 +34,12 @@
         {%- assign height = end | minus: start | times: include.row_height | divided_by: include.interval -%}
         <li class="schedule-event {{ event.class }}"
             style="top: {{ top }}px; height: {{ height }}px;">
-          {{- event.name -}}
-          <div class="time">{{ event.start }}–{{ event.end }}</div>
-          <div class="location">{{ event.location }}</div>
-          <div class="tas">{{ event.tas }}</div>
+          <div>
+            {{- event.name -}}
+            <div class="time">{{ event.start }}–{{ event.end }}</div>
+            <div class="location">{{ event.location }}</div>
+            <div class="tas">{{ event.tas }}</div>
+          </div>
         </li>
       {% endfor %}
       </ul>
