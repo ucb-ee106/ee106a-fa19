@@ -81,10 +81,22 @@ schedule:
         tas: Isabella
       - name: Office Hours
         class: office-hours
-        start: 1:30 PM
-        end: 2:30 PM
+        start: 12:00 PM
+        end: 2:00 PM
+        location: Cory 111
+        tas: Aakarsh
+      - name: Office Hours
+        class: office-hours
+        start: 2:00 PM
+        end: 3:00 PM
         location: Cory 333B
         tas: Prof. Sastry
+      - name: Office Hours
+        class: office-hours
+        start: 1:30 PM
+        end: 2:30 PM
+        location: Cory 111
+        tas: Amay
       - name: Office Hours
         class: office-hours
         start: 6:30 PM
