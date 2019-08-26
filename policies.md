@@ -42,7 +42,7 @@ If you need disability-related accommodations in this class, if you have emergen
 
 Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **9V4W5V**.
 
-There will be a total of between 6 to 8 homeworks, due weekly through mid-November. Each student is allocated 5 total days of extension, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** After the extension days have elapsed, homeworks will be accepted for a geometrically decreasing number of points (i.e., 1 day late -> half credit, 2 days late -> quarter credit, . . . , N days late -> 1=2N credit).
+There will be a total of between 6 to 8 homeworks, due weekly through mid-November. Each student is allocated 5 total days of extension, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** After the extension days have elapsed, homeworks will be accepted for a geometrically decreasing number of points (i.e., 1 day late -> half credit, 2 days late -> quarter credit, . . .).
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
