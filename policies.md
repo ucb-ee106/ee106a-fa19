@@ -48,7 +48,7 @@ Collaboration on homework sets is encouraged, but all students must write up the
 
 ## Midterms
 
-There will be two midterms covering the course material, on **October 3, Thursday**, and **November 14, Thursday**.  Each midterm will be 80 minutes and will occur after hours on Thursdays.  The lecture sectionon the following Friday will be canceled.  If you have an anticipated conflict with one of the midterm dates,please notify the GSIs by email before the end of the second week of the term.
+There will be two midterms covering the course material, on **October 3, Thursday**, and **November 14, Thursday**.  Each midterm will be 80 minutes and will occur after hours on Thursdays. The lecture section on the following Friday will be canceled. If you have an anticipated conflict with one of the midterm dates, please notify the GSIs by email before the end of the second week of the term.
 
 ## Labs
 
