@@ -73,16 +73,16 @@ schedule:
     start: 12:00 PM
     end: 1:00 PM
     location: Cory 337B
-  - name: Amay
+  - name: Prof. Sastry
     class: office-hours right
     start: 1:30 PM
     end: 2:30 PM
-    location: Cory 111
-  - name: Prof. Sastry
+    location: Cory 333B
+  - name: Amay
     class: office-hours left
     start: 2:00 PM
     end: 3:00 PM
-    location: Cory 333B
+    location: Cory 111
   - name: Jun
     class: office-hours
     start: 6:30 PM
