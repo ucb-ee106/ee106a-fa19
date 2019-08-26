@@ -1,6 +1,5 @@
 ---
-title: Week 0 Announcement
+title: Welcome to EE C106a/206a!
 ---
 
-Welcome to EE C106a/206a!
 {: .fs-5 }
