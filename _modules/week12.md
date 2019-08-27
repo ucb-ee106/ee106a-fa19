@@ -7,7 +7,7 @@ days:
   - topic: Intro to Multifingered Hands/Midterm II Review
     date: 2019-11-13
     description: 
-  - topic: Intro to Multifingered Hands/Midterm II Review
+  - topic: No Lecture
     date: 2019-11-15
     description: 
 ---
