@@ -1,7 +1,7 @@
 ---
 title: Week 12
 days:
-  - topic: Veterans Day
+  - topic: Veterans Day - No Class
     date: 2019-11-11
     description: 
   - topic: Intro to Multifingered Hands/Midterm II Review
