@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- Discussion 6: Velocities & Jacobians
+- Discussion 6: Vision
 - Lab 5/Lab 6
