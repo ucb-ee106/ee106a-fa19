@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- Discussion 4: Midterm I Review
+- Discussion 4: Inverse Kinematics
 - Lab 3/Lab 4
