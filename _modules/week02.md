@@ -13,4 +13,4 @@ days:
 ---
 
 - Discussion 1: Rotations
-- Lab 1
+- [Lab 1](../assets/labs/lab1.pdf)
