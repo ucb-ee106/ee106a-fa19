@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- Discussion 2: Forward Kinematics
+- Discussion 2: Exponential Coordinates
 - Lab 2
