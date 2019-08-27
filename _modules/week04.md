@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- Discussion 3: Inverse Kinematics
+- Discussion 3: Forward Kinematics
 - Lab 3/Lab 4
