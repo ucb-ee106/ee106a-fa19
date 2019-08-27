@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- Discussion 9: Control
+- Discussion 9: Dynamics
 - Lab 7/Lab 8
