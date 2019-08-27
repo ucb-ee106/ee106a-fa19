@@ -11,4 +11,4 @@ days:
     date: 2019-08-30
     description: 
 ---
-[Homework 0](./assets/hw0.ipynb)
+[Homework 0](../assets/hw0.ipynb)
