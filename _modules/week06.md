@@ -7,7 +7,7 @@ days:
   - topic: Vision (cont'd)/Midterm I Review
     date: 2019-10-02
     description: 
-  - topic: Vision (cont'd)/Midterm I Review
+  - topic: No Lecture
     date: 2019-10-04
     description: 
 ---
