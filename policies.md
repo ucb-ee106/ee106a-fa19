@@ -100,8 +100,8 @@ Unless otherwise noted, assignments are  due  by **11:59 PM** on the date listed
 |TBD| HW6 (Dynamics)|
 |TBD| HW7 (Feedback)|
 |**Thursday 11/14** | **Midterm II**|
-|**Tuesday 12/12 & Wednesday 12/13** | **Final Project Presentations**|
-|**Wednesday 12/20** | **Final Project Reports**|
+|**Thursday 12/12 & Friday 12/13** | **Final Project Presentations**|
+|**Friday 12/20** | **Final Project Reports**|
 
 ## Advice 
 
