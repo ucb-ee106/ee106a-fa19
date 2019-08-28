@@ -14,3 +14,5 @@ days:
 
 - Discussion 1: Rotations
 - [Lab 1](../assets/labs/lab1.pdf)
+- [Homework 1](../assets/hw/HW1-fall2019.pdf)
+- [Homework 1 Code](../assets/hw/HW1.zip)
