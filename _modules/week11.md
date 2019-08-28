@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- Discussion 10: Midterm II Review
+- Discussion 10: Control
 - Lab 7/Lab 8

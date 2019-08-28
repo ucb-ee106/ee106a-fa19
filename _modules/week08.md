@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- Discussion 7: Jacobians, Wrenches
+- Discussion 7: Velocities and Jacobians
 - Lab 5/Lab 6

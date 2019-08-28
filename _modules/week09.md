@@ -12,4 +12,4 @@ days:
     description: 
 ---
 
-- Discussion 8: Dynamics
+- Discussion 8: Jacobians and Wrenches

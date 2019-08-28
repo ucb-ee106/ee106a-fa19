@@ -42,7 +42,7 @@ If you need disability-related accommodations in this class, if you have emergen
 
 Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **9V4W5V**.
 
-There will be a total of between 6 to 8 homeworks, due weekly through mid-November. Each student is allocated 5 total days of extension, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** After the extension days have elapsed, homeworks will be accepted for a geometrically decreasing number of points (i.e., 1 day late -> half credit, 2 days late -> quarter credit, . . .).
+There will be a total of between 6 to 8 homeworks, due weekly through mid-November. Each student is allocated 5 total days of extension, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** After the extension days have elapsed, homeworks will be accepted for a geometrically decreasing number of points (i.e., 1 day late -> half credit, 2 days late -> quarter credit). Note: Homework will not be accepted more than two days past the due date, barring extenuating circumstances.
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
@@ -63,7 +63,7 @@ Labs should ideally be completed by the end of your assigned lab section, and ar
 
 *The start of your lab section is a hard cutoff — that is, if an assignment is due at the start of lab section, you may not check off that assignment at the start of class for full credit; it must be checked off beforehand. This policy is in place because many of the labs fully fill the allotted time, and we want to keep everyone on schedule.*
 
-Labs may be worked on outside of class hours as long as proper safety policies are followed (namely, you have been instructed in the correct policies and etiquette for the hardware you are using, and if you are using hardware, two or more people are present in the lab). Labs may be checked off at the office hours ofany lab TA or Valmik, or you may request to attend a different lab section for the check-off by asking a GSI. Note that many of the labs in this class are full, and you will not be allowed to attend them.
+Labs may be worked on outside of class hours as long as proper safety policies are followed (namely, you have been instructed in the correct policies and etiquette for the hardware you are using, and if you are using hardware, two or more people are present in the lab). Labs may be checked off at the office hours of any lab TA or Valmik, or you may request to attend a different lab section for the check-off by asking a GSI. Note that many of the labs in this class are full, and you will not be allowed to attend them.
 
 We understand that these policies are a bit nuanced,  and if you have questions,  please ask us!  We’ve done our best to create a policy that allows for flexibility while encouraging people to stay on schedule and maintaining fairness; to do so, we’ve sacrificed simplicity.
 
@@ -90,18 +90,18 @@ Unless otherwise noted, assignments are  due  by **11:59 PM** on the date listed
 
 |Tuesday 9/3| HW0 (Python)|
 |Monday 9/9| HW1 (Rotations)|
-|Monday 9/16| HW2 (Forward Kinematics)|
-|Monday 9/23| HW3 (Inverse Kinematics)|
+|Wednesday 9/18| HW2 (Forward Kinematics)|
+|Friday 9/27| HW3 (Inverse Kinematics)|
 |**Thursday 10/3** | **Midterm I**|
 |Thursday 10/10| Project Mini-Proposal & Team|
-|Monday 10/14| HW4 (Velocities)|
-|Monday 10/21| HW5 (Wrenches)|
+|TBD| HW4 (Velocities)|
+|TBD| HW5 (Wrenches)|
 |**Saturday 10/26** | **Final Project Proposal & Parts List**|
-|Monday 10/28| HW6 (Dynamics)|
-|Monday 11/4| HW7 (Feedback)|
+|TBD| HW6 (Dynamics)|
+|TBD| HW7 (Feedback)|
 |**Thursday 11/14** | **Midterm II**|
-|**Tuesday 12/12 & Wednesday 12/13** | **Final Project Presentations**|
-|**Wednesday 12/20** | **Final Project Reports**|
+|**Thursday 12/12 & Friday 12/13** | **Final Project Presentations**|
+|**Friday 12/20** | **Final Project Reports**|
 
 ## Advice 
 
