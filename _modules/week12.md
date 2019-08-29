@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- **Midterm II on 11/14**
+- **Midterm II on 11/14 7pm**
 - Discussion 11: Project Discussion

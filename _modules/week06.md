@@ -12,5 +12,5 @@ days:
     description: 
 ---
 
-- **Midterm I on 10/3**
+- **Midterm I on 10/3 7pm**
 - Discussion 5: Project Ideation
