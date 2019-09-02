@@ -16,3 +16,6 @@ days:
 - [Lab 1](../assets/labs/lab1.pdf)
 - [Homework 1](../assets/hw/HW1-fall2019.pdf)
 - [Homework 1 Code](../assets/hw/HW1.zip)
+
+Lecture Slides:
+- [Rigid Body Motion](../assets/lectures/refs/RigidMotions_MLS_Chap2.pdf) (The first three sections)

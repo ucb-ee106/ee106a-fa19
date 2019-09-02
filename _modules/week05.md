@@ -14,3 +14,7 @@ days:
 
 - Discussion 4: Inverse Kinematics
 - Lab 3/Lab 4
+
+Lecture Slides:
+- [Intro to Vision](../assets/lectures/refs/Vision_Intro_MaSKS_Chap1.pdf)
+- [Vision Basics](../assets/lectures/refs/Vision_Basics_MaSKS_Chap2.pdf)

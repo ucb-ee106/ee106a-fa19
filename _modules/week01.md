@@ -12,6 +12,8 @@ days:
     description: 
 ---
 - [Homework 0](../assets/hw/hw0.ipynb)
+
+Lecture Slides:
 - [Logistics slides](../assets/lectures/w1/Lecture_1_logistics.pdf) 
 - [History - overview pt1 slides](../assets/lectures/w1/Lecture_1_History_MLS_Chap1_pt1.pdf) 
 - [History - overview pt2 slides](../assets/lectures/w1/Lecture_1_History_MLS_Chap1_pt2.pdf) 
