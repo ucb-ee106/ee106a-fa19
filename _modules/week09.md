@@ -13,3 +13,6 @@ days:
 ---
 
 - Discussion 8: Jacobians and Wrenches
+
+Lecture Slides:
+- [Dynamics](../assets/lectures/refs/Dynamics_MLS_Chap4.pdf) (Sections 1-3)

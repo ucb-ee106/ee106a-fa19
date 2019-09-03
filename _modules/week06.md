@@ -14,3 +14,8 @@ days:
 
 - **Midterm I on 10/3 7pm**
 - Discussion 5: Project Ideation
+
+Lecture Slides:
+- [Vision Features](../assets/lectures/refs/Vision_Features_MaSKS_Chap3.pdf)
+- [Two View Geometry](../assets/lectures/refs/TwoViewGeom_MaSKS_Chap4.pdf)
+

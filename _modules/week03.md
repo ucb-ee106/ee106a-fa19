@@ -14,3 +14,6 @@ days:
 
 - Discussion 2: Exponential Coordinates
 - [Lab 2](../assets/labs/lab2.pdf)
+
+Lecture Slides:
+- [Kinematics](../assets/lectures/refs/Kinematics_MLS_Chap3.pdf) (The first section)

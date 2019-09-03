@@ -14,3 +14,6 @@ days:
 
 - Discussion 6: Vision
 - Lab 5/Lab 6
+
+Lecture Slides:
+- [Rigid Body Motion](../assets/lectures/refs/RigidMotions_MLS_Chap2.pdf) (Sections 4)
