@@ -13,4 +13,4 @@ days:
 ---
 
 - Discussion 2: Exponential Coordinates
-- Lab 2
+- [Lab 2](../assets/labs/lab2.pdf)
