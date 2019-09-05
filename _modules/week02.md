@@ -6,7 +6,7 @@ days:
     description: 
   - topic: Homogeneous Coordinates/Exponential Coordinates
     date: 2019-09-04
-    description: 
+    description: <a href="https://youtu.be/x-iHCFkShw4">(Video)</a>
   - topic: Homogeneous Coordinates/Exponential Coordinates
     date: 2019-09-06
     description: 
