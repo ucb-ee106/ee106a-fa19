@@ -21,5 +21,5 @@ description: >-
 - [Python Intro](assets/labs/resources/python_intro.pdf)
 - [ROS Cheat Sheet](assets/labs/resources/ROS_cheat_sheet.pdf)
 - [Linux Intro](assets/labs/resources/linux_intro.pdf)
-- [NumPy Notes](assets/labs/resources/numpy_notes.pf)
+- [NumPy Notes](assets/labs/resources/numpy_notes.pdf)
 - [ROS Installation](assets/labs/resources/ROS_installation.pdf)
