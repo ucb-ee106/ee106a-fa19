@@ -84,7 +84,7 @@ schedule:
         class: section middle
         start: 5:00 PM
         end: 6:00 PM
-        location: Cory 293
+        location: Cory 521
   - name: Friday
     events:
       - name: Lecture
@@ -96,17 +96,17 @@ schedule:
         class: section
         start: 12:00 PM
         end: 1:00 PM
-        location: Cory 293
+        location: Cory 540AB
       - name: Discussion
         class: section
         start: 1:00 PM
         end: 2:00 PM
-        location: Cory 293
+        location: Cory 540AB
       - name: Discussion
         class: section
         start: 2:00 PM
         end: 3:00 PM
-        location: Cory 293
+        location: Cory 540AB
       - name: Lab
         class: lab
         start: 3:00 PM

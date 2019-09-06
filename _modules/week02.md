@@ -6,7 +6,7 @@ days:
     description: 
   - topic: Homogeneous Coordinates/Exponential Coordinates
     date: 2019-09-04
-    description: 
+    description: <a href="https://youtu.be/x-iHCFkShw4">(Video)</a>
   - topic: Homogeneous Coordinates/Exponential Coordinates
     date: 2019-09-06
     description: 
@@ -19,3 +19,7 @@ days:
 
 Lecture Slides:
 - [Rigid Body Motion](../assets/lectures/refs/RigidMotions_MLS_Chap2.pdf) (The first three sections)
+
+Reading:
+- MLS Ch 2.1, 2.2, and maybe 2.3
+

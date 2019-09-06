@@ -17,3 +17,6 @@ days:
 
 Lecture Slides:
 - [Kinematics](../assets/lectures/refs/Kinematics_MLS_Chap3.pdf) (The first section)
+
+Readings:
+- MLS 3.1 and 3.2

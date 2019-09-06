@@ -3,13 +3,13 @@ title: Week 1
 days:
   - topic: No Class
     date: 2019-08-26
-    description: 
+    description:
   - topic: Introduction and History
     date: 2019-08-28
-    description: 
+    description: <a href="https://youtu.be/TD8gokaZn2U">(Video)</a>
   - topic: Rigid Body Motion Rotations
     date: 2019-08-30
-    description: 
+    description: <a href="https://youtu.be/8wmp_a1f45g">(Video)</a>
 ---
 - [Homework 0](../assets/hw/hw0.ipynb)
 
