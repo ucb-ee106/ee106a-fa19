@@ -12,7 +12,6 @@ days:
     description: <a href="https://youtu.be/8wmp_a1f45g">(Video)</a>
 ---
 - [Homework 0](../assets/hw/hw0.ipynb)
-- [Homework 0 Solutions](../assets/hw/hw0_sol.pdf)
 
 Lecture Slides:
 - [Logistics slides](../assets/lectures/w1/Lecture_1_logistics.pdf) 
