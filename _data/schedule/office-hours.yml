@@ -19,8 +19,8 @@ schedule:
     location: Cory 111
   - name: Valmik & Amay
     class: office-hours
-    start: 4:00 PM
-    end: 5:00 PM
+    start: 5:00 PM
+    end: 6:00 PM
     location: Cory 111
   - name: Jun
     class: office-hours
