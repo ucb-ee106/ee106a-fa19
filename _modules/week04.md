@@ -14,6 +14,7 @@ days:
 
 - Discussion 3: Forward Kinematics
 - Lab 3/Lab 4
+- [Lab 3 pre-lab](../assets/labs/lab3prelab.zip)
 
 Lecture Slides:
 - [Rigid Body Motion](../assets/lectures/refs/Kinematics_MLS_Chap3.pdf) (The second section)
