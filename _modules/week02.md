@@ -9,7 +9,7 @@ days:
     description: <a href="https://youtu.be/x-iHCFkShw4">(Video)</a>
   - topic: Homogeneous Coordinates/Exponential Coordinates
     date: 2019-09-06
-    description: 
+    description: <a href="https://youtu.be/hTyCYdRFL_c">(Video)</a>
 ---
 
 - Discussion 1: Rotations
