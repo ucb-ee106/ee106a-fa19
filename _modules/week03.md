@@ -3,7 +3,7 @@ title: Week 3
 days:
   - topic: Forward Kinematics
     date: 2019-09-09
-    description: 
+    description: <a href="https://youtu.be/2AS2oU-XStI">(Video)</a>
   - topic: Forward Kinematics
     date: 2019-09-11
     description: 
