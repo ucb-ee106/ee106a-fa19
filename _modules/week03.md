@@ -13,6 +13,7 @@ days:
 ---
 
 - Discussion 2: Exponential Coordinates
+- [Homework 2](../assets/hw/HW2-fall2019.pdf)
 - [Lab 2](../assets/labs/lab2.pdf)
 - [Lab 2 Resources](../assets/labs/Lab_2_Resources.zip)
 
