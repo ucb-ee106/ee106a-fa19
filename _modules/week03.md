@@ -6,7 +6,7 @@ days:
     description: <a href="https://youtu.be/2AS2oU-XStI">(Video)</a>
   - topic: Forward Kinematics
     date: 2019-09-11
-    description: 
+    description: <a href="https://youtu.be/GgNGab94CDA">(Video)</a>
   - topic: Forward Kinematics
     date: 2019-09-13
     description: 
