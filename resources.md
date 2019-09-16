@@ -23,3 +23,7 @@ description: >-
 - [Linux Intro](assets/labs/resources/linux_intro.pdf)
 - [NumPy Notes](assets/labs/resources/numpy_notes.pdf)
 - [ROS Installation](assets/labs/resources/ROS_installation.pdf)
+
+## Alternate Textbook
+
+- [Park and Lynch](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
