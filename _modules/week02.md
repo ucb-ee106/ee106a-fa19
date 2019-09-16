@@ -12,7 +12,7 @@ days:
     description: <a href="https://youtu.be/hTyCYdRFL_c">(Video)</a>
 ---
 
-- Discussion 1: Rotations
+- [Discussion 1: Rotations](../assets/discussions/D1__Rotations.pdf)
 - [Lab 1](../assets/labs/lab1.pdf)
 - [Homework 1](../assets/hw/HW1-fall2019.pdf)
 - [Homework 1 Code](../assets/hw/HW1.zip)
