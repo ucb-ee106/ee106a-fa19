@@ -26,4 +26,4 @@ description: >-
 
 ## Alternate Textbook
 
-- [Park and Lynch](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+- [Modern Robotics by Park and Lynch](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
