@@ -27,4 +27,4 @@ description: >-
 ## Lexture Supplements 
 
 - [Modern Robotics by Park and Lynch](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf) (another textbook that might be easier to understand than the course's official textbook)
-- [Modern Robotics: Intro to the Lightboard video](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
+- [Modern Robotics: videos](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
