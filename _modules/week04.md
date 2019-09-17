@@ -3,7 +3,7 @@ title: Week 4
 days:
   - topic: Inverse Kinematics
     date: 2019-09-16
-    description: 
+    description: <a href="https://youtu.be/7Z7vpnl8SmY">(Video)</a>
   - topic: Inverse Kinematics
     date: 2019-09-18
     description: 
