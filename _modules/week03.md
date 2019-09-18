@@ -12,7 +12,7 @@ days:
     description: <a href="https://youtu.be/vX5n_vaxNCU">(Video)</a>
 ---
 
-- [Discussion 2: Exponential Coordinates](..assets/discussions/D2___Exponential_Coordinates.pdf)
+- [Discussion 2: Exponential Coordinates](../assets/discussions/D2___Exponential_Coordinates.pdf)
 - [Homework 2](../assets/hw/HW2-fall2019.pdf)
 - [Lab 2](../assets/labs/lab2.pdf)
 - [Lab 2 Resources](../assets/labs/Lab_2_Resources.zip)
