@@ -72,7 +72,7 @@ schedule:
     class: office-hours right
     start: 12:00 PM
     end: 1:00 PM
-    location: Cory 337B
+    location: Cory 212
   - name: Prof. Sastry
     class: office-hours right
     start: 1:30 PM
@@ -92,9 +92,9 @@ schedule:
   events:
   - name: Isabella
     class: office-hours left
-    start: 9:30 AM
-    end: 10:30 AM
-    location: Cory 337B
+    start: 10:00 AM
+    end: 11:00 AM
+    location: Cory 258
   - name: Ron
     class: office-hours right
     start: 9:00 AM
