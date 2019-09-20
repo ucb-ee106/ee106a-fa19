@@ -6,7 +6,7 @@ days:
     description: <a href="https://youtu.be/7Z7vpnl8SmY">(Video)</a>
   - topic: Inverse Kinematics
     date: 2019-09-18
-    description: 
+    description: <a href="https://youtu.be/lnjEVK9KwWw">(Video)</a>
   - topic: Inverse Kinematics
     date: 2019-09-20
     description: 
