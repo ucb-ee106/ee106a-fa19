@@ -9,7 +9,7 @@ days:
     description: <a href="https://youtu.be/lnjEVK9KwWw">(Video)</a>
   - topic: Inverse Kinematics
     date: 2019-09-20
-    description: 
+    description: <a href="https://youtu.be/xTizUYC09fk">(Video)</a>
 ---
 
 - Discussion 3: Forward Kinematics

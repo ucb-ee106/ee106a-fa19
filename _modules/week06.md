@@ -12,7 +12,7 @@ days:
     description: 
 ---
 
-- **Midterm I on 10/3 7pm**
+- **Midterm I on 10/4 7pm**
 - Discussion 5: Project Ideation
 
 Lecture Slides:
