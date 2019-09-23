@@ -15,6 +15,7 @@ days:
 - Discussion 4: Inverse Kinematics
 - Lab 3/Lab 4
 - [Lab 3 pre-lab](../assets/labs/lab3prelab.zip)
+- [Homework 3](../assets/hw/HW3-fall2019.pdf)
 
 Lecture Slides:
 - [Intro to Vision](../assets/lectures/refs/Vision_Intro_MaSKS_Chap1.pdf)
