@@ -9,10 +9,10 @@ days:
     description: <a href="https://youtu.be/GgNGab94CDA">(Video)</a>
   - topic: Forward Kinematics
     date: 2019-09-13
-    description: 
+    description: <a href="https://youtu.be/vX5n_vaxNCU">(Video)</a>
 ---
 
-- Discussion 2: Exponential Coordinates
+- [Discussion 2: Exponential Coordinates](../assets/discussions/D2___Exponential_Coordinates.pdf)
 - [Homework 2](../assets/hw/HW2-fall2019.pdf)
 - [Lab 2](../assets/labs/lab2.pdf)
 - [Lab 2 Resources](../assets/labs/Lab_2_Resources.zip)
