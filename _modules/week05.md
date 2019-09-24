@@ -3,7 +3,7 @@ title: Week 5
 days:
   - topic: Introduction to Vision
     date: 2019-09-23
-    description: 
+    description: <a href="https://youtu.be/KPjro1_0kAk">(Video)</a>
   - topic: Introduction to Vision
     date: 2019-09-25
     description: 
