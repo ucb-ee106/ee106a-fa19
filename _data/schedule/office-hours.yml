@@ -91,12 +91,12 @@ schedule:
 - name: Friday
   events:
   - name: Isabella
-    class: office-hours left
+    class: office-hours
     start: 10:00 AM
     end: 11:00 AM
     location: Cory 258
   - name: Ron
-    class: office-hours right
+    class: office-hours
     start: 9:00 AM
     end: 10:00 AM
     location: Cory 111

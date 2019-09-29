@@ -6,7 +6,7 @@ days:
     description: <a href="https://youtu.be/KPjro1_0kAk">(Video)</a>
   - topic: Introduction to Vision
     date: 2019-09-25
-    description: 
+    description: <a href="https://youtu.be/bYtAsMrBcGc">(Video)</a>
   - topic: Introduction to Vision
     date: 2019-09-27
     description: 
