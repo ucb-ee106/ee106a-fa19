@@ -17,6 +17,6 @@ days:
 - [Practice Midterm](../assets/practice_mt/PracticeMidterm1-fall2019.pdf)
 
 Lecture Slides:
-- [Vision Features](../assets/lectures/refs/Vision_Features_MaSKS_Chap3.pdf)
-- [Two View Geometry](../assets/lectures/refs/TwoViewGeom_MaSKS_Chap4.pdf)
+- [Vision Features](../assets/lectures/refs/Vision_Features_MaSKS_Chap3.ppt)
+- [Two View Geometry](../assets/lectures/refs/TwoViewGeom_MaSKS_Chap4.ppt)
 
