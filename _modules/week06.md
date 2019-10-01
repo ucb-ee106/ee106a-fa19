@@ -3,7 +3,7 @@ title: Week 6
 days:
   - topic: Vision (cont'd)/Midterm I Review
     date: 2019-09-30
-    description: 
+    description: <a href="https://youtu.be/8VZIuH9gPPs">(Video)</a>
   - topic: Vision (cont'd)/Midterm I Review
     date: 2019-10-02
     description: 
