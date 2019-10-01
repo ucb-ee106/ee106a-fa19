@@ -18,5 +18,5 @@ days:
 - [Homework 3](../assets/hw/HW3-fall2019.pdf)
 
 Lecture Slides:
-- [Intro to Vision](../assets/lectures/refs/Vision_Intro_MaSKS_Chap1.pdf)
-- [Vision Basics](../assets/lectures/refs/Vision_Basics_MaSKS_Chap2.pdf)
+- [Intro to Vision](../assets/lectures/refs/Vision_Intro_MaSKS_Chap1.ppt)
+- [Vision Basics](../assets/lectures/refs/Vision_Basics_MaSKS_Chap2.ppt)
