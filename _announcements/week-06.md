@@ -13,4 +13,5 @@ The DSP midterm will be held on Friday 10/4 from 4-7 pm in Cory 531.
 The alternate exam will take place on Saturday 10/5 at 5:30pm in Cory 212. You have until 10/1 to request the alternate exam.
 
 A practice midterm has been posted under the Resources tab.
+
 {: .fs-5 }
