@@ -12,7 +12,7 @@ days:
     description: <a href="https://youtu.be/xTizUYC09fk">(Video)</a>
 ---
 
-- Discussion 3: Forward Kinematics
+- [Discussion 3: Forward Kinematics](../assets/discussions/D3___Forward_Kinematics.pdf)
 - [Lab 3](../assets/labs/lab3/lab3.zip)/[Lab 4](../assets/labs/lab4/lab4.zip)
 - [Lab 3 pre-lab](../assets/labs/lab3/lab3prelab.zip)
 
