@@ -9,7 +9,7 @@ days:
     description: <a href="https://youtu.be/bYtAsMrBcGc">(Video)</a>
   - topic: Introduction to Vision
     date: 2019-09-27
-    description: 
+    description: <a href="https://youtu.be/VOmgviy5KmM">(Video)</a>
 ---
 
 - Discussion 4: Inverse Kinematics
