@@ -2,7 +2,7 @@
 title: Midterm 1 is Friday, October 4th at 7pm
 ---
 
-If you are enrolled in BioE 106A, or EECS 206A you will be taking the midterm go to: Moffitt 102.
+If you are enrolled in BioE 106A, or EECS 206A you will go to: Moffitt 102.
 
 If you are enrolled in EECS 106A, and your last name begins with A-L, you'll go to: Mulford 159
 
