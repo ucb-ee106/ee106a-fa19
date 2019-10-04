@@ -9,7 +9,7 @@ days:
     description: <a href="https://youtu.be/9e-XiA1uGx8">(Video)</a>
   - topic: Midterm Review
     date: 2019-10-04
-    description: 
+    description: <a href="https://youtu.be/iEfq5oDkgNg">(Video)</a>
 ---
 
 - **Midterm I on 10/4 7pm**
