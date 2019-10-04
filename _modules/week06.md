@@ -6,7 +6,7 @@ days:
     description: <a href="https://youtu.be/8VZIuH9gPPs">(Video)</a>
   - topic: Vision (cont'd)/Midterm I Review
     date: 2019-10-02
-    description: 
+    description: <a href="https://youtu.be/9e-XiA1uGx8">(Video)</a>
   - topic: Midterm Review
     date: 2019-10-04
     description: 
