@@ -13,7 +13,7 @@ days:
 ---
 
 - Discussion 7: Velocities and Jacobians
-- Lab 5/Lab 6
+- [Lab 5](../assets/labs/lab5.zip)/[Lab 6](../assets/labs/lab6.zip)
 
 Lecture Slides:
 - [Rigid Body Motion](../assets/lectures/refs/RigidMotions_MLS_Chap2.pdf) (Sections 5)
