@@ -12,7 +12,7 @@ days:
     description: 
 ---
 
-- Discussion 6: Vision
+- [Discussion 6: Vision](../assets/discussions/D6___Vision.pdf)
 - [Lab 5](../assets/labs/lab5.zip)/[Lab 6](../assets/labs/lab6.zip)
 
 Lecture Slides:
