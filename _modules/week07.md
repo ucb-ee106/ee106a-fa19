@@ -3,7 +3,7 @@ title: Week 7
 days:
   - topic: Rigid Body Velocities Twists
     date: 2019-10-07
-    description: 
+    description: <a href="https://youtu.be/WuBxPjruGvA">(Video)</a>
   - topic: Rigid Body Velocities Twists
     date: 2019-10-09
     description: 
