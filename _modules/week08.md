@@ -3,7 +3,7 @@ title: Week 8
 days:
   - topic: Jacobians, Wrenches
     date: 2019-10-14
-    description: 
+    description: <a href="https://youtu.be/U5jDcTKQKCA">(Video)</a>
   - topic: Jacobians, Wrenches
     date: 2019-10-16
     description: 
