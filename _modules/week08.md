@@ -12,7 +12,7 @@ days:
     description: 
 ---
 
-- [Discussion 7](../assets/labs/lab5.zip)/[Lab 6](../assets/discussions/D7___Velocities_and_Adjoints.pdf)
+- [Discussion 7](../assets/discussions/D7___Velocities_and_Adjoints.pdf)
 - [Lab 5](../assets/labs/lab5.zip)/[Lab 6](../assets/labs/lab6.zip)
 - [Homework 4](../assets/hw/HW4-fall2019.pdf)
 
