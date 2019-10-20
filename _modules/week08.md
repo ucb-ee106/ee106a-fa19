@@ -6,7 +6,7 @@ days:
     description: <a href="https://youtu.be/U5jDcTKQKCA">(Video)</a>
   - topic: Velocities, Jacobians
     date: 2019-10-16
-    description: 
+    description: <a href="https://youtu.be/F787LGv-G9s">(Video)</a>
   - topic: Jacobians
     date: 2019-10-18
     description: 
