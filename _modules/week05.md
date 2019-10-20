@@ -1,13 +1,13 @@
 ---
 title: Week 5
 days:
-  - topic: Introduction to Vision
+  - topic: Inverse Kinematics
     date: 2019-09-23
     description: <a href="https://youtu.be/KPjro1_0kAk">(Video)</a>
-  - topic: Introduction to Vision
+  - topic: Inverse Kinematics
     date: 2019-09-25
     description: <a href="https://youtu.be/bYtAsMrBcGc">(Video)</a>
-  - topic: Introduction to Vision
+  - topic: Inverse Kinematics
     date: 2019-09-27
     description: <a href="https://youtu.be/VOmgviy5KmM">(Video)</a>
 ---
@@ -18,5 +18,4 @@ days:
 - [Homework 3](../assets/hw/HW3-fall2019.pdf)
 
 Lecture Slides:
-- [Intro to Vision](../assets/lectures/refs/Vision_Intro_MaSKS_Chap1.ppt)
-- [Vision Basics](../assets/lectures/refs/Vision_Basics_MaSKS_Chap2.ppt)
+
