@@ -18,4 +18,5 @@ days:
 - [Homework 3](../assets/hw/HW3-fall2019.pdf)
 
 Lecture Slides:
+- [Rigid Body Motion](../assets/lectures/refs/Kinematics_MLS_Chap3.pdf) (The second section)
 
