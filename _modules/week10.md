@@ -14,3 +14,11 @@ days:
 
 - Discussion 9: Dynamics
 - Lab 7/Lab 8
+
+Lecture Slides:
+- tbd
+
+Readings:
+- MLS 4.5 might be useful, but most of it is out of scope for this class
+
+
