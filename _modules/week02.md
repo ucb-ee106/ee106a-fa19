@@ -4,10 +4,10 @@ days:
   - topic: Labor Day - No Class
     date: 2019-09-02
     description: 
-  - topic: Homogeneous Coordinates/Exponential Coordinates
+  - topic: Rotations
     date: 2019-09-04
     description: <a href="https://youtu.be/x-iHCFkShw4">(Video)</a>
-  - topic: Homogeneous Coordinates/Exponential Coordinates
+  - topic: Rotations
     date: 2019-09-06
     description: <a href="https://youtu.be/hTyCYdRFL_c">(Video)</a>
 ---
