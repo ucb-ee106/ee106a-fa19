@@ -17,4 +17,4 @@ days:
 - [Lab 3 pre-lab](../assets/labs/lab3/lab3prelab.zip)
 
 Lecture Slides:
-- [Rigid Body Motion](../assets/lectures/refs/Kinematics_MLS_Chap3.pdf) (The second section)
+- [Rigid Body Motion](../assets/lectures/refs/Kinematics_MLS_Chap3.pdf) (The first and second sections)
