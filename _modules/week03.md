@@ -1,13 +1,13 @@
 ---
 title: Week 3
 days:
-  - topic: Forward Kinematics
+  - topic: Rigid Body Transformations
     date: 2019-09-09
     description: <a href="https://youtu.be/2AS2oU-XStI">(Video)</a>
-  - topic: Forward Kinematics
+  - topic: Rigid Body Tranformations, Forward Kinematics
     date: 2019-09-11
     description: <a href="https://youtu.be/GgNGab94CDA">(Video)</a>
-  - topic: Forward Kinematics
+  - topic: Rigid Body Transformations, Forward Kinematics
     date: 2019-09-13
     description: <a href="https://youtu.be/vX5n_vaxNCU">(Video)</a>
 ---
