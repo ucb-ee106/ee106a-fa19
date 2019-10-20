@@ -7,7 +7,7 @@ days:
   - topic: Introduction and History
     date: 2019-08-28
     description: <a href="https://youtu.be/TD8gokaZn2U">(Video)</a>
-  - topic: Rigid Body Motion Rotations
+  - topic: More History
     date: 2019-08-30
     description: <a href="https://youtu.be/8wmp_a1f45g">(Video)</a>
 ---
