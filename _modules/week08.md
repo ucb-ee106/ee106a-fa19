@@ -19,3 +19,7 @@ days:
 Lecture Slides:
 - [Rigid Body Motion](../assets/lectures/refs/RigidMotions_MLS_Chap2.pdf) (Sections 4, 5)
 - [Kinematics](../assets/lectures/refs/Kinematics_MLS_Chap3.pdf) (Section 3)
+
+Readings:
+- MLS 2.4
+- MLS 3.4
