@@ -1,13 +1,13 @@
 ---
 title: Week 4
 days:
-  - topic: Inverse Kinematics
+  - topic: Forward Kinematics
     date: 2019-09-16
     description: <a href="https://youtu.be/7Z7vpnl8SmY">(Video)</a>
   - topic: Inverse Kinematics
     date: 2019-09-18
     description: <a href="https://youtu.be/lnjEVK9KwWw">(Video)</a>
-  - topic: Inverse Kinematics
+  - topic: Review of Screws
     date: 2019-09-20
     description: <a href="https://youtu.be/xTizUYC09fk">(Video)</a>
 ---
