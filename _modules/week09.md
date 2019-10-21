@@ -15,7 +15,8 @@ days:
 - Discussion 8: Jacobians and Wrenches
 
 Lecture Slides:
-- [Dynamics](../assets/lectures/refs/Dynamics_MLS_Chap4.pdf) (Sections 1-3)
+- [Dynamics (MLS)](../assets/lectures/refs/Dynamics_MLS_Chap4.pdf) (Sections 1-3)
+- [Jacobians and Singularities](../assets/lectures/w9/Lecture_21_Jacobians.pdf)
 
 Readings:
 - MLS 2.5
