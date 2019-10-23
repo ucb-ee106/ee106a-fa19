@@ -3,7 +3,7 @@ title: Week 9
 days:
   - topic: Singularities, Wrenches (Valmik)
     date: 2019-10-21
-    description: 
+    description: <a href="https://youtu.be/ISOnyiwg42g">(Video)</a>
   - topic: Dynamics (Valmik)
     date: 2019-10-23
     description: 
