@@ -1,0 +1,165 @@
+\documentclass[letterpaper]{article}
+
+%% Language and font encodings
+\usepackage[english]{babel}
+%\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage{todonotes}
+
+%% Sets page size and margins
+\usepackage[letterpaper,top=1in,bottom=1in,left=1in,right=1in,marginparwidth=1.75cm]{geometry}
+
+%% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{outlines}
+%\usepackage[colorinlistoftodos]{todonotes}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+%% Overwrite title macro
+
+\makeatletter
+    \def\@maketitle{%
+  \newpage
+  \null
+  \vskip 2em%
+  \begin{center}%
+  \let \footnote \thanks
+    {\Large \@title \par}%
+    {\Large \@author \par}%
+    {\large \@date \par}%
+  \end{center}%
+  \par
+  \vskip 1.5em}
+\makeatother
+
+%% make table spacing less awful
+
+\def\arraystretch{1.25}%  1 is the default, change whatever you need
+
+%% Title
+
+\title{\textbf{EE106A/206A / BIOE125}}
+\author{Project Proposal Template} %% CHANGE THIS TO YOUR PROJECT TITLE
+\date{Fall 2018}
+
+
+%% Document
+
+\begin{document}
+\maketitle
+
+\section{Contact Information}
+
+
+\begin{tabular}[h]{l|l|l}
+\textbf{Name} & \textbf{SID} & \textbf{Email} \\
+\hline
+Susan Calvin & 00000011 & calvin@usrobots.com \\
+Riri Williams & 00000010 & riri@mit.edu \\
+Roy Batty & 00000110 & batty@nexus6.com \\
+\end{tabular}
+
+\section{Abstract}
+
+This is a single-paragraph summary of your project proposal. Think of this as your elevator pitch for your project. If you had 30 seconds to describe your project, what would you say?
+
+\section{Project Description}
+
+Here, provide a detailed description of your project. It should address:
+
+\begin{itemize}
+\item What are your project goals?
+\item What does your project do? What design criteria must your project meet?
+\item Why is your project interesting?
+\item How does your project incorporate sensing, planning, and actuation?
+\item What similar work have other groups done before? How is your work different?
+\end{itemize}
+
+\section{Tasks}
+
+Here, list out different major and minor tasks of the project. For example, 
+
+\begin{outline}[enumerate]
+
+\1 \textbf{Build the robot.} We will build the robot using . . .
+\2 \textbf{Design the robot.} We will design the robot using . . .
+\2 \textbf{Construct the robot.} We will construct the robot using . . .
+
+\1 \textbf{Code the robot.} We will program the robot using . . .
+\2 \textbf{Develop node 1.} This node . . .
+\2 \textbf{Develop node 2.} This node . . .
+\2 \textbf{Develop node 3.} This node . . . 
+
+\end{outline}
+
+\section{Milestones}
+
+Here, list your milestones and when you plan to achieve them. You may either list them out (task by task, with corresponding dates) or create a \href{https://en.wikipedia.org/wiki/Gantt_chart}{Gantt chart}.
+
+\section{Assessment}
+
+How will you test or assess your project? What constitutes a success? What are some realistic goals? What are some ``reach'' goals?
+
+\section{Team Member Roles}
+
+Here, delineate each team member's roles, how they will contribute, and their relevant background. Multiple people can of course work on multiple/overlapping tasks.
+
+\begin{itemize}
+\item Susan will be in charge of tasks 2(a) and 2(c). Her background is in artificial intelligence and human-robot interaction. She has taken CS 101, EE 101, and she can program any robot known to man.
+\item Riri will be in charge of tasks 1(a) and 1(b). Her background is in mechanical engineering, control theory, and assistive technologies. She has taken ME 101, ME 102, and she can build any robot known to man.
+\item Roy will be in charge of task 2(b). As an actual robot, he is uniquely qualified to build and program robotic systems.
+\end{itemize}
+
+\section{Bill of Materials}
+
+\subsection{Use of Lab Resources}
+
+Please include all lab resources you plan to use, so we can ensure that all teams have sufficient access to hardware. Please indicate which robot end effectors / grippers you plan to use, if applicable.
+
+\vspace{1em}
+
+\begin{tabular}[h]{l|l}
+\textbf{Item} & \textbf{Quantity} \\
+\hline
+Sawyer (w/ parallel gripper) & 2 \\
+TurtleBot & 6 \\ % sorry only fictional characters can use all of our hardware, we won't give you this many
+\end{tabular}
+
+\subsection{Other Robotic Platforms}
+
+You may already have access to other robots, via a lab you work in (or a quadcopter hobby). If you plan to use them, please list them here. (If you plan to use your lab's hardware for the project, make sure to clear it with the PI first!)
+
+\vspace{1em}
+
+\begin{tabular}[h]{l|l|l}
+\textbf{Item} & \textbf{Quantity} & \textbf{Owner/Location} \\
+\hline
+Ironheart suit & 1 & Riri \\
+Marvin & 1 & Heart of Gold\\ 
+\end{tabular}
+
+\subsection{Items for Purchase}
+
+For new items you want to purchase, please include the price, desired quantity, a website where they are available for purchase (e.g., McMaster, Misumi, Amazon), and justification for why they're necessary for your project. For more expensive items, you will need to justify why you are unable to use hardware that is already available in the lab. Keep in mind the limited budget.
+
+\vspace{1em}
+
+\begin{tabular}[h]{l|l|l|l|l}
+\textbf{Item} & \textbf{Quantity} & \textbf{Price} & \textbf{Website} & \textbf{Justification} \\
+\hline
+ & & & & \\
+ & & & & \\
+\end{tabular}
+
+\section{Other}
+
+This section contains all additional information necessary to convince us that \textit{a)} you are equipped to complete the project you propose, and \textit{b)} you have thought specifically about your project implementation. This section is optional, but some things you might mention include:
+
+\begin{itemize}
+\item ROS packages you'll need (with pointers to relevant websites); 
+\item preliminary code structure/skeleton; and 
+\item mechanical designs/drawings/sketches of your project.
+\end{itemize}
+
+\end{document}
