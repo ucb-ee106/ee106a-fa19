@@ -9,7 +9,7 @@ days:
     description: <a href="https://youtu.be/F787LGv-G9s">(Video)</a>
   - topic: Jacobians
     date: 2019-10-18
-    description: 
+    description: <a href="https://youtu.be/Kr_iYQTfBu0">(Video)</a>
 ---
 
 - [Discussion 7](../assets/discussions/D7___Velocities_and_Adjoints.pdf)/[Additional notes on velocity](../assets/discussions/additional_velocity_notes.pdf)
