@@ -6,7 +6,7 @@ days:
     description: <a href="https://youtu.be/ISOnyiwg42g">(Video)</a>
   - topic: Dynamics (Valmik)
     date: 2019-10-23
-    description: 
+    description: <a href="https://youtu.be/C2L-wirowWU">(Video)</a>
   - topic: Dynamics (Valmik)
     date: 2019-10-25
     description: 

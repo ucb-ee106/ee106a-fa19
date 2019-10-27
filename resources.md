@@ -34,6 +34,7 @@ description: >-
 
 ## Final Project Resources
 - [Project Guidelines](assets/proj/final_project_guidelines.pdf)
+- [Project Proposal Template](/assets/proj/project_proposal_template.tex)
 - [Past Projects: 2015](assets/proj/past_projects_2015.pdf)
 - [Past Projects: 2017](assets/proj/past_projects_2017.pdf)
 - [Past Projects: 2018](assets/proj/past_projects_2018.pdf)
