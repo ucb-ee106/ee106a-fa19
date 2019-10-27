@@ -18,6 +18,7 @@ Lecture Slides:
 - [Dynamics (MLS)](../assets/lectures/refs/Dynamics_MLS_Chap4.pdf) (Sections 1-3)
 - [Jacobians and Singularities](../assets/lectures/w9/Lecture_21_Jacobians.pdf)
 - [Dynamics 1](../assets/lectures/w9/Lecture_22_Dynamics_1.pdf)
+- [Dynamics 2](../assets/lectures/w9/Lecture_23_Dynamics_2.pdf)
 - [Project Proposal Template](../assets/proj/project_proposal_template.tex)
 
 Readings:
