@@ -13,4 +13,4 @@ days:
 ---
 
 - Discussion 10: Control
-- Lab 7/Lab 8
+- [Lab 8](../assets/labs/lab3/lab8.zip)
