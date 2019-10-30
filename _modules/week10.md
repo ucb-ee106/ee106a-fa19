@@ -16,7 +16,7 @@ days:
 -  [Lab 7](../assets/labs/partialLab7.zip)/[Lab 8](../assets/labs/lab8.zip)
 
 Lecture Slides:
-- tbd
+- [Control and Trajectory Generation](../assets/lectures/Rev-Manipulator-Control-July-2012.pdf)
 
 Readings:
 - MLS 4.5 might be useful, but most of it is out of scope for this class
