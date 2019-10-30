@@ -13,7 +13,7 @@ days:
 ---
 
 - Discussion 9: Dynamics
--  [Lab 7](../assets/labs/partialLab7.zip)/[Lab 8](../assets/labs/lab8.zip)
+-  [Lab 7](../assets/labs/lab7.zip)/[Lab 8](../assets/labs/lab8.zip)
 
 Lecture Slides:
 - [Control and Trajectory Generation](../assets/lectures/Rev-Manipulator-Control-July-2012.pdf)
