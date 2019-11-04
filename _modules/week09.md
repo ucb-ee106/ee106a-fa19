@@ -9,7 +9,7 @@ days:
     description: <a href="https://youtu.be/C2L-wirowWU">(Video)</a>
   - topic: Dynamics (Valmik)
     date: 2019-10-25
-    description: 
+    description: <a href="https://youtu.be/POQe4FH8VFY">(Video)</a>
 ---
 
 - Discussion 8: Jacobians and Wrenches
