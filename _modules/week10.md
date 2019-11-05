@@ -1,15 +1,15 @@
 ---
 title: Week 10
 days:
-  - topic: Control
+  - topic: No Lecture (Power Outage)
     date: 2019-10-28
-    description: 
+    description:
   - topic: Control
     date: 2019-10-30
-    description: 
+    description: <a href="https://youtu.be/k9toWqUp4uc">(Video)</a>
   - topic: Control
     date: 2019-11-01
-    description: 
+    description: <a href="https://youtu.be/cIOAeBmPPt8">(Video)</a>
 ---
 
 - Discussion 9: Dynamics
