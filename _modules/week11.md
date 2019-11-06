@@ -1,9 +1,9 @@
 ---
 title: Week 11
 days:
-  - topic: Motion Planning
+  - topic: Dynamics and Control
     date: 2019-11-04
-    description: 
+    description: <a href=" https://youtu.be/Mmmz1dmbqxw">(Video)</a>
   - topic: Motion Planning
     date: 2019-11-06
     description: 
