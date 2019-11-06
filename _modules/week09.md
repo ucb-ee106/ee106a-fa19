@@ -12,7 +12,7 @@ days:
     description: <a href="https://youtu.be/POQe4FH8VFY">(Video)</a>
 ---
 
-- Discussion 8: Jacobians and Wrenches
+- [Discussion 8: Jacobians and Wrenches](../assets/discussions/D8___Jacobians.pdf)
 
 Lecture Slides:
 - [Dynamics (MLS)](../assets/lectures/refs/Dynamics_MLS_Chap4.pdf) (Sections 1-3)
