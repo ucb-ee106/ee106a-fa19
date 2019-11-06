@@ -1,5 +1,5 @@
 ---
-title: Post-Midterm 1 Survey
+title: Power Outage Schedule
 ---
 
 Schedule for the week of 10/28 due to power outages:
