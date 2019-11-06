@@ -4,10 +4,10 @@ days:
   - topic: No Lecture (Power Outage)
     date: 2019-10-28
     description:
-  - topic: Control
+  - topic: Dynamics and Control
     date: 2019-10-30
     description: <a href="https://youtu.be/k9toWqUp4uc">(Video)</a>
-  - topic: Control
+  - topic: Dynamics and Control
     date: 2019-11-01
     description: <a href="https://youtu.be/cIOAeBmPPt8">(Video)</a>
 ---
