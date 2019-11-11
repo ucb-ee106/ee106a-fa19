@@ -12,7 +12,7 @@ days:
     description: 
 ---
 
-- Discussion 10: Control
+- [Discussion 10: Control](../assets/discussions/D10___Control.pdf)
 - [Lab 7](../assets/labs/lab7.zip)/[Lab 8](../assets/labs/lab8.zip)
 - [Homework 5](../assets/hw/HW5-fall2019.pdf)
 
