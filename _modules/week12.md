@@ -13,4 +13,7 @@ days:
 ---
 
 - **Midterm II on 11/14 7pm**
-- Discussion 11: Project Discussion
+- Discussion 11: n/a
+- [Practice Midterm](../assets/practice_mt/PracticeMidterm2-fall2019.pdf)
+
+
