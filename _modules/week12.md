@@ -4,9 +4,9 @@ days:
   - topic: Veterans Day - No Class
     date: 2019-11-11
     description: 
-  - topic: Intro to Multifingered Hands/Midterm II Review
+  - topic: Midterm II Review
     date: 2019-11-13
-    description: 
+    description: <a href="https://youtu.be/6k_OnCziAsQ">(Video)</a>
   - topic: No Lecture
     date: 2019-11-15
     description: 
