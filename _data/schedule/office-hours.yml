@@ -97,7 +97,7 @@ schedule:
   events:
   - name: Ron
     class: 9-hours
-    start: 10:00 AM
+    start: 9:00 AM
     end: 10:00 AM
     location: Cory 111
   - name: Grant
