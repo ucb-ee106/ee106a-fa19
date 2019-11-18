@@ -54,6 +54,11 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: Dwinelle 145
+      - name: Prof. Sastry
+        class: office-hours
+        start: 1:15 PM
+        end: 2:15 PM
+        location: Cory 333B
       # - name: Lab
       #   class: lab
       #   start: 12:00 PM
@@ -80,6 +85,11 @@ schedule:
       #   end: 6:30 PM
       #   location: Cory 111
       #   tas: Jun, Aakarsh
+      - name: Prof. Sastry
+        class: office-hours right
+        start: 1:30 PM
+        end: 2:30 PM
+        location: Cory 333B
       - name: Discussion
         class: section middle
         start: 5:00 PM
