@@ -86,7 +86,7 @@ schedule:
       #   location: Cory 111
       #   tas: Jun, Aakarsh
       - name: Prof. Sastry
-        class: office-hours right
+        class: office-hours
         start: 1:30 PM
         end: 2:30 PM
         location: Cory 333B
