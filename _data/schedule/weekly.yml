@@ -11,32 +11,32 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: Dwinelle 145
-      - name: Lab
-        class: lab
-        start: 12:00 PM
-        end: 3:00 PM
-        location: Cory 111
-        tas: Grant, Tiffany
+      # - name: Lab
+      #   class: lab
+      #   start: 12:00 PM
+      #   end: 3:00 PM
+      #   location: Cory 111
+      #   tas: Grant, Tiffany
   - name: Tuesday
     events:
-      - name: Lab
-        class: lab
-        start: 9:00 AM
-        end: 12:00 PM
-        location: Cory 111
-        tas: Stella, Amay
-      - name: Lab
-        class: lab
-        start: 12:30 PM
-        end: 3:30 PM
-        location: Cory 111
-        tas: Tiffany, Jun
-      - name: Lab
-        class: lab
-        start: 3:30 PM
-        end: 6:30 PM
-        location: Cory 111
-        tas: Amay, Ron
+      # - name: Lab
+      #   class: lab
+      #   start: 9:00 AM
+      #   end: 12:00 PM
+      #   location: Cory 111
+      #   tas: Stella, Amay
+      # - name: Lab
+      #   class: lab
+      #   start: 12:30 PM
+      #   end: 3:30 PM
+      #   location: Cory 111
+      #   tas: Tiffany, Jun
+      # - name: Lab
+      #   class: lab
+      #   start: 3:30 PM
+      #   end: 6:30 PM
+      #   location: Cory 111
+      #   tas: Amay, Ron
   - name: Wednesday
     events:
       - name: Discussion
@@ -54,32 +54,32 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: Dwinelle 145
-      - name: Lab
-        class: lab
-        start: 12:00 PM
-        end: 3:00 PM
-        location: Cory 111
-        tas: Ron, Jun
-      - name: Lab
-        class: lab
-        start: 3:00 PM
-        end: 6:00 PM
-        location: Cory 111
-        tas: Jenna, Tiffany
+      # - name: Lab
+      #   class: lab
+      #   start: 12:00 PM
+      #   end: 3:00 PM
+      #   location: Cory 111
+      #   tas: Ron, Jun
+      # - name: Lab
+      #   class: lab
+      #   start: 3:00 PM
+      #   end: 6:00 PM
+      #   location: Cory 111
+      #   tas: Jenna, Tiffany
   - name: Thursday
     events:
-      - name: Lab
-        class: lab
-        start: 9:00 AM
-        end: 12:00 PM
-        location: Cory 111
-        tas: Aakarsh, Stella
-      - name: Lab
-        class: lab
-        start: 3:30 PM
-        end: 6:30 PM
-        location: Cory 111
-        tas: Jun, Aakarsh
+      # - name: Lab
+      #   class: lab
+      #   start: 9:00 AM
+      #   end: 12:00 PM
+      #   location: Cory 111
+      #   tas: Aakarsh, Stella
+      # - name: Lab
+      #   class: lab
+      #   start: 3:30 PM
+      #   end: 6:30 PM
+      #   location: Cory 111
+      #   tas: Jun, Aakarsh
       - name: Discussion
         class: section middle
         start: 5:00 PM
@@ -107,10 +107,10 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location: Cory 540AB
-      - name: Lab
-        class: lab
-        start: 3:00 PM
-        end: 6:00 PM
-        location: Cory 111
-        tas: Stella, Jenna
+      # - name: Lab
+      #   class: lab
+      #   start: 3:00 PM
+      #   end: 6:00 PM
+      #   location: Cory 111
+      #   tas: Stella, Jenna
       

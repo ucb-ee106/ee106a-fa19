@@ -7,102 +7,107 @@ timeline: [
 schedule:
 - name: Monday
   events:
-  - name: Stella
+  - name: Jenna
     class: office-hours
     start: 8:00 AM
-    end: 10:00 AM
+    end: 11:00 AM
     location: Cory 111
   - name: Tiffany
     class: office-hours
-    start: 3:00 PM
-    end: 4:00 PM
+    start: 12:00 PM
+    end: 3:00 PM
     location: Cory 111
-  - name: Valmik & Amay
+  - name: Amay
     class: office-hours
     start: 5:00 PM
-    end: 6:00 PM
-    location: Cory 111
-  - name: Jun
-    class: office-hours
-    start: 6:00 PM
     end: 7:00 PM
     location: Cory 111
 - name: Tuesday
   events:
-  - name: Jenna
+  - name: Stella
     class: office-hours
-    start: 8:00 AM
-    end: 9:00 AM
-    location: Cory 111
-  - name: Valmik
-    class: office-hours
-    start: 6:30 PM
-    end: 7:30 PM
-    location: Cory 111
-- name: Wednesday
-  events:
-  - name: Jenna
-    class: office-hours
-    start: 8:30 AM
-    end: 9:30 AM
-    location: Cory 111
-  - name: Tiffany
-    class: office-hours
-    start: 9:30 AM
-    end: 10:30 AM
-    location: Cory 111
-  - name: Prof. Sastry
-    class: office-hours
-    start: 1:15 PM
-    end: 2:15 PM
-    location: Cory 333B
-  - name: Ron
-    class: office-hours
-    start: 6:00 PM
-    end: 7:00 PM
-    location: Cory 111
-- name: Thursday
-  events:
-  - name: Aakarsh
-    class: office-hours left
-    start: 12:00 PM
-    end: 2:00 PM
-    location: Cory 111
-  - name: Isabella
-    class: office-hours right
-    start: 12:00 PM
-    end: 1:00 PM
-    location: Cory 212
-  - name: Prof. Sastry
-    class: office-hours right
-    start: 1:30 PM
-    end: 2:30 PM
-    location: Cory 333B
-  - name: Amay
-    class: office-hours left
-    start: 2:00 PM
-    end: 3:00 PM
+    start: 9:00 AM
+    end: 12:00 PM
     location: Cory 111
   - name: Jun
     class: office-hours
-    start: 6:30 PM
-    end: 7:30 PM
+    start: 12:30 PM
+    end: 3:30 PM
     location: Cory 111
-- name: Friday
+  - name: Amay
+    class: office-hours
+    start: 3:30 PM
+    end: 6:30 PM
+    location: Cory 111
+- name: Wednesday
   events:
   - name: Isabella
     class: office-hours
-    start: 10:00 AM
+    start: 9:00 AM
     end: 11:00 AM
-    location: Cory 258
+    location: Cory 111
+  - name: Jun
+    class: office-hours
+    start: 12:00 PM
+    end: 3:00 PM
+    location: Cory 111
+  - name: Tiffany
+    class: office-hours
+    start: 3:00 PM
+    end: 6:00 PM
+    location: Cory 111
   - name: Ron
     class: office-hours
+    start: 6:00 PM
+    end: 8:00 PM
+    location: Cory 111
+- name: Thursday
+  events:
+  - name: Stella
+    class: office-hours left
     start: 9:00 AM
+    end: 12:00 PM
+    location: Cory 111
+  - name: Aakarsh
+    class: office-hours right
+    start: 11:00 AM
+    end: 2:00 PM
+    location: Cory 111
+  - name: Isabella
+    class: office-hours left
+    start: 12:00 PM
+    end: 1:00 PM
+    location: Cory 111
+  - name: Valmik
+    class: office-hours left
+    start: 2:00 PM
+    end: 5:00 PM
+    location: Cory 111
+  - name: Amay
+    class: office-hours right
+    start: 2:00 PM
+    end: 3:00 PM
+    location: Cory 111
+  - name: Isabella
+    class: office-hours right
+    start: 3:30 PM
+    end: 6:30 PM
+    location: Cory 111
+- name: Friday
+  events:
+  - name: Ron
+    class: 9-hours
+    start: 10:00 AM
     end: 10:00 AM
     location: Cory 111
   - name: Grant
     class: office-hours
-    start: 12:30 PM
-    end: 2:30 PM
+    start: 12:00 PM
+    end: 3:00 PM
+    location: Cory 111
+  - name: Valmik
+    class: office-hours
+    start: 3:00 PM
+    end: 6:00 PM
     location: Cory 111
 
