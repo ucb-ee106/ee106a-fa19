@@ -1,7 +1,7 @@
 ---
 title: Week 14
 days:
-  - topic: 
+  - topic: Guest Lecture - Justin Yim
     date: 2019-11-25
     description: 
   - topic: Thanksgiving Break
