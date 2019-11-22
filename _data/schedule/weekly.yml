@@ -39,16 +39,16 @@ schedule:
       #   tas: Amay, Ron
   - name: Wednesday
     events:
-      - name: Discussion
-        class: section
-        start: 9:00 AM
-        end: 10:00 AM
-        location: Cory 241
-      - name: Discussion
-        class: section
-        start: 10:00 AM
-        end: 11:00 AM
-        location: Cory 241
+      # - name: Discussion
+      #   class: section
+      #   start: 9:00 AM
+      #   end: 10:00 AM
+      #   location: Cory 241
+      # - name: Discussion
+      #   class: section
+      #   start: 10:00 AM
+      #   end: 11:00 AM
+      #   location: Cory 241
       - name: Lecture
         class: lecture
         start: 11:00 AM
@@ -90,11 +90,11 @@ schedule:
         start: 1:30 PM
         end: 2:30 PM
         location: Cory 333B
-      - name: Discussion
-        class: section middle
-        start: 5:00 PM
-        end: 6:00 PM
-        location: Cory 521
+      # - name: Discussion
+      #   class: section middle
+      #   start: 5:00 PM
+      #   end: 6:00 PM
+      #   location: Cory 521
   - name: Friday
     events:
       - name: Lecture
@@ -102,21 +102,21 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: Dwinelle 145
-      - name: Discussion
-        class: section
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Cory 540AB
-      - name: Discussion
-        class: section
-        start: 1:00 PM
-        end: 2:00 PM
-        location: Cory 540AB
-      - name: Discussion
-        class: section
-        start: 2:00 PM
-        end: 3:00 PM
-        location: Cory 540AB
+      # - name: Discussion
+      #   class: section
+      #   start: 12:00 PM
+      #   end: 1:00 PM
+      #   location: Cory 540AB
+      # - name: Discussion
+      #   class: section
+      #   start: 1:00 PM
+      #   end: 2:00 PM
+      #   location: Cory 540AB
+      # - name: Discussion
+      #   class: section
+      #   start: 2:00 PM
+      #   end: 3:00 PM
+      #   location: Cory 540AB
       # - name: Lab
       #   class: lab
       #   start: 3:00 PM
