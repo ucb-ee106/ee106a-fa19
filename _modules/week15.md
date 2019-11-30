@@ -1,13 +1,13 @@
 ---
 title: Week 15
 days:
-  - topic: Special Topics
+  - topic: Aerial Robotics (Shankar Sastry)
     date: 2019-12-02
     description: 
-  - topic: Special Topics
+  - topic: Legged Robotics (Koushil Sreenath)
     date: 2019-12-04
     description: 
-  - topic: Special Topics
+  - topic: Autonomous Vehicles (Francesco Borrelli)
     date: 2019-12-06
     description: 
 ---
