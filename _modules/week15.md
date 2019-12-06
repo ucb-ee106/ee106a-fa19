@@ -3,10 +3,10 @@ title: Week 15
 days:
   - topic: Aerial Robotics (Shankar Sastry)
     date: 2019-12-02
-    description: 
+    description: <a href="https://youtu.be/7kGdLmaakRc">(Video)</a>
   - topic: Legged Robotics (Koushil Sreenath)
     date: 2019-12-04
-    description: 
+    description: <a href="https://youtu.be/b0Rif-bP6Io">(Video)</a>
   - topic: Autonomous Vehicles (Francesco Borrelli)
     date: 2019-12-06
     description: 
