@@ -1,7 +1,9 @@
 timeline: [
-  '8:00 AM', '8:30 AM','9:00 AM', '9:30 AM', '10:00 AM', '10:30 AM', '11:00 AM', '11:30 AM',
+  # '8:00 AM', '8:30 AM','9:00 AM', '9:30 AM', 
+  '10:00 AM', '10:30 AM', '11:00 AM', '11:30 AM',
   '12:00 PM', '12:30 PM', '1:00 PM', '1:30 PM', '2:00 PM', '2:30 PM',
-  '3:00 PM', '3:30 PM', '4:00 PM', '4:30 PM', '5:00 PM', '5:30 PM', '6:00 PM', '6:30 PM'
+  '3:00 PM'
+  # , '3:30 PM', '4:00 PM', '4:30 PM', '5:00 PM', '5:30 PM', '6:00 PM', '6:30 PM'
 ]
 schedule:
   - name: Monday
@@ -11,80 +13,90 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: Dwinelle 145
-      - name: Lab
-        class: lab
-        start: 12:00 PM
-        end: 3:00 PM
-        location: Cory 111
-        tas: Grant, Tiffany
+      # - name: Lab
+      #   class: lab
+      #   start: 12:00 PM
+      #   end: 3:00 PM
+      #   location: Cory 111
+      #   tas: Grant, Tiffany
   - name: Tuesday
     events:
-      - name: Lab
-        class: lab
-        start: 9:00 AM
-        end: 12:00 PM
-        location: Cory 111
-        tas: Stella, Amay
-      - name: Lab
-        class: lab
-        start: 12:30 PM
-        end: 3:30 PM
-        location: Cory 111
-        tas: Tiffany, Jun
-      - name: Lab
-        class: lab
-        start: 3:30 PM
-        end: 6:30 PM
-        location: Cory 111
-        tas: Amay, Ron
+      # - name: Lab
+      #   class: lab
+      #   start: 9:00 AM
+      #   end: 12:00 PM
+      #   location: Cory 111
+      #   tas: Stella, Amay
+      # - name: Lab
+      #   class: lab
+      #   start: 12:30 PM
+      #   end: 3:30 PM
+      #   location: Cory 111
+      #   tas: Tiffany, Jun
+      # - name: Lab
+      #   class: lab
+      #   start: 3:30 PM
+      #   end: 6:30 PM
+      #   location: Cory 111
+      #   tas: Amay, Ron
   - name: Wednesday
     events:
-      - name: Discussion
-        class: section
-        start: 9:00 AM
-        end: 10:00 AM
-        location: Cory 241
-      - name: Discussion
-        class: section
-        start: 10:00 AM
-        end: 11:00 AM
-        location: Cory 241
+      # - name: Discussion
+      #   class: section
+      #   start: 9:00 AM
+      #   end: 10:00 AM
+      #   location: Cory 241
+      # - name: Discussion
+      #   class: section
+      #   start: 10:00 AM
+      #   end: 11:00 AM
+      #   location: Cory 241
       - name: Lecture
         class: lecture
         start: 11:00 AM
         end: 12:00 PM
         location: Dwinelle 145
-      - name: Lab
-        class: lab
-        start: 12:00 PM
-        end: 3:00 PM
-        location: Cory 111
-        tas: Ron, Jun
-      - name: Lab
-        class: lab
-        start: 3:00 PM
-        end: 6:00 PM
-        location: Cory 111
-        tas: Jenna, Tiffany
+      - name: Prof. Sastry
+        class: office-hours
+        start: 1:15 PM
+        end: 2:15 PM
+        location: Cory 333B
+      # - name: Lab
+      #   class: lab
+      #   start: 12:00 PM
+      #   end: 3:00 PM
+      #   location: Cory 111
+      #   tas: Ron, Jun
+      # - name: Lab
+      #   class: lab
+      #   start: 3:00 PM
+      #   end: 6:00 PM
+      #   location: Cory 111
+      #   tas: Jenna, Tiffany
   - name: Thursday
     events:
-      - name: Lab
-        class: lab
-        start: 9:00 AM
-        end: 12:00 PM
-        location: Cory 111
-        tas: Aakarsh, Stella
-      - name: Lab
-        class: lab
-        start: 3:30 PM
-        end: 6:30 PM
-        location: Cory 111
-        tas: Jun, Aakarsh
-      - name: Discussion
-        class: section middle
-        start: 5:00 PM
-        end: 6:00 PM
-        location: Cory 521
+      # - name: Lab
+      #   class: lab
+      #   start: 9:00 AM
+      #   end: 12:00 PM
+      #   location: Cory 111
+      #   tas: Aakarsh, Stella
+      # - name: Lab
+      #   class: lab
+      #   start: 3:30 PM
+      #   end: 6:30 PM
+      #   location: Cory 111
+      #   tas: Jun, Aakarsh
+      - name: Prof. Sastry
+        class: office-hours
+        start: 1:30 PM
+        end: 2:30 PM
+        location: Cory 333B
+      # - name: Discussion
+      #   class: section middle
+      #   start: 5:00 PM
+      #   end: 6:00 PM
+      #   location: Cory 521
   - name: Friday
     events:
       - name: Lecture
@@ -92,25 +104,25 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: Dwinelle 145
-      - name: Discussion
-        class: section
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Cory 540AB
-      - name: Discussion
-        class: section
-        start: 1:00 PM
-        end: 2:00 PM
-        location: Cory 540AB
-      - name: Discussion
-        class: section
-        start: 2:00 PM
-        end: 3:00 PM
-        location: Cory 540AB
-      - name: Lab
-        class: lab
-        start: 3:00 PM
-        end: 6:00 PM
-        location: Cory 111
-        tas: Stella, Jenna
+      # - name: Discussion
+      #   class: section
+      #   start: 12:00 PM
+      #   end: 1:00 PM
+      #   location: Cory 540AB
+      # - name: Discussion
+      #   class: section
+      #   start: 1:00 PM
+      #   end: 2:00 PM
+      #   location: Cory 540AB
+      # - name: Discussion
+      #   class: section
+      #   start: 2:00 PM
+      #   end: 3:00 PM
+      #   location: Cory 540AB
+      # - name: Lab
+      #   class: lab
+      #   start: 3:00 PM
+      #   end: 6:00 PM
+      #   location: Cory 111
+      #   tas: Stella, Jenna
       

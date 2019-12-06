@@ -3,13 +3,13 @@ title: Week 11
 days:
   - topic: Dynamics and Control
     date: 2019-11-04
-    description: <a href=" https://youtu.be/Mmmz1dmbqxw">(Video)</a>
+    description: <a href="https://youtu.be/Mmmz1dmbqxw">(Video)</a>
   - topic: Motion Planning
     date: 2019-11-06
-    description: 
+    description: <a href="https://youtu.be/lG8etE9ikIM">(Video)</a>
   - topic: Motion Planning
     date: 2019-11-08
-    description: 
+    description: <a href="https://youtu.be/qtXU9X91F_s">(Video)</a>
 ---
 
 - [Discussion 10: Control](../assets/discussions/D10___Control.pdf)
