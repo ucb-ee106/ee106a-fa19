@@ -2,7 +2,7 @@
 name: Amay Saxena
 role: Content TA
 email: amaysaxena@
-photo: assets/nopic.JPG
+photo: assets/amay.JPG
 ---
 
 Lab/Content TA
