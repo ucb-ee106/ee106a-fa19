@@ -12,3 +12,6 @@ days:
     description: 
 ---
 
+- [Project Demo and Website Instructions](../assets/proj/final_project_presentation-demo-report_instructions.pdf)
+
+
